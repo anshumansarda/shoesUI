@@ -546,7 +546,12 @@ function updateCaption(k) {
   const rack = racks[i * 2 + 1];
   const ps = rack.shoes.map((m) => m.userData.product);
   const brands = [...new Set(ps.map((p) => p.brand))];
-  const list = brands.length > 1 ? brands.slice(0, -1).join(", ") + " & " + brands.at(-1) : brands[0];
+  const list =
+    brands.length > 3
+      ? `${brands.slice(0, 2).join(", ")} +${brands.length - 2} more`
+      : brands.length > 1
+      ? brands.slice(0, -1).join(", ") + " & " + brands.at(-1)
+      : brands[0];
   const prices = ps.map((p) => p.price);
   caption.classList.remove("is-in");
   void caption.offsetWidth;
