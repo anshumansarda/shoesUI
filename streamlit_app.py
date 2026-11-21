@@ -62,9 +62,18 @@ def build_page() -> str:
     # ship the catalogue inline and point asset URLs at Streamlit's static server
     products = json.loads((SITE / "data" / "products.json").read_text(encoding="utf-8"))
     data = json.dumps(products, ensure_ascii=False).replace("</", "<\\/")
+    # Streamlit Community Cloud serves the app under "/~/+/", so static files
+    # live at "/~/+/app/static/..." there and at "/app/static/..." locally.
+    # Work out the prefix from the Streamlit page that hosts this iframe.
     boot = (
         "<script>"
-        f"window.__ASSET_BASE__ = {json.dumps(ASSET_BASE)};"
+        "(function () {"
+        "  var path = '/';"
+        "  try { path = window.parent.location.pathname; } catch (e) {"
+        "    try { path = new URL(document.referrer).pathname; } catch (e2) {} }"
+        "  var m = path.match(/^.*?\\/~\\/\\+\\//);"
+        f"  window.__ASSET_BASE__ = (m ? m[0] : '/') + {json.dumps(ASSET_BASE.lstrip('/'))};"
+        "})();"
         f"window.__PRODUCTS__ = {data};"
         "</script>"
     )
