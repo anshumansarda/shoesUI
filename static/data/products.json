@@ -1,0 +1,5218 @@
+{
+ "generated": "2026-11-22",
+ "sources": [
+  "superkicks.in",
+  "dawntown.co.in"
+ ],
+ "count": 80,
+ "products": [
+  {
+   "id": "nike-00ae9cb7",
+   "brand": "Nike",
+   "name": "Air Max 95 Big Bubble",
+   "colorway": "Smoke Grey/Racer Blue-Anthracite-Black",
+   "gender": "Men",
+   "price": 15995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Big. Bold. Bounce. The \"Big Bubble\" edition of the 95 has a design that stays true to the original, then stacks the upper with rippling layers of synthetic leather and airy mesh. Elevate your style with a little more Air.",
+     "Upper combines synthetic leather with airy textiles for a layered look built to last.",
+     "Visible Max Air cushioning provides lightweight cushioning.",
+     "Flex grooves in the midsole/outsole let you move freely."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: AIR MAX 95",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-smoke-grey-racer-blue-anthracite-black",
+   "cutout": "shoes/nike-00ae9cb7/cutout.webp",
+   "cutoutAspect": 1.8322,
+   "images": [
+    "shoes/nike-00ae9cb7/1.webp",
+    "shoes/nike-00ae9cb7/2.webp",
+    "shoes/nike-00ae9cb7/3.webp",
+    "shoes/nike-00ae9cb7/4.webp",
+    "shoes/nike-00ae9cb7/5.webp"
+   ]
+  },
+  {
+   "id": "adid-001da273",
+   "brand": "adidas",
+   "name": "Adizero Evo SL",
+   "colorway": "Silver Metallic/Lucid Red/Iron Metallic",
+   "gender": "Men",
+   "price": 11999,
+   "mrp": 15999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Speed-inspired shoes designed for fast culture.",
+     "Experience the feeling of fast in the Adizero Evo SL. Inspired by the innovation of record-breaking shoes in the Adizero running family - and specifically the Pro Evo 1 - the Evo SL is designed for you to run in it, or not. Combining Adizero technology with a bold and unique racing-inspired aesthetic, it's an evolution of speed in all aspects of life. A responsive layer of LIGHTSTRIKE PRO foam in the midsole provides comfort and cushioning for optimal energy return."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "core_running",
+    "Diwalipush",
+    "FIRSTTIMEONDISC",
+    "Footwear",
+    "For Footwear"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-adizero-evo-sl-silver-metallic-lucid-red-iron-metallic",
+   "cutout": "shoes/adid-001da273/cutout.webp",
+   "cutoutAspect": 2.0632,
+   "images": [
+    "shoes/adid-001da273/1.webp",
+    "shoes/adid-001da273/2.webp",
+    "shoes/adid-001da273/3.webp",
+    "shoes/adid-001da273/4.webp",
+    "shoes/adid-001da273/5.webp"
+   ]
+  },
+  {
+   "id": "jord-0640d21b",
+   "brand": "Jordan",
+   "name": "Air Jordan 1 Low SE",
+   "colorway": "Black/Chalk-Velvet Brown",
+   "gender": "Women",
+   "price": 10495,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. This take calls back to MJ's iconic nickname: The Black Cat. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "More Details"
+    ],
+    "bullets": [
+     "Leather upper",
+     "Foam midsole",
+     "Rubber outsole",
+     "Low-cut collar",
+     "Classic laces"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "Franchise: AIR JORDAN 1",
+    "Gender - Women",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
+   "cutout": "shoes/jord-0640d21b/cutout.webp",
+   "cutoutAspect": 2.0,
+   "images": [
+    "shoes/jord-0640d21b/1.webp",
+    "shoes/jord-0640d21b/2.webp",
+    "shoes/jord-0640d21b/3.webp",
+    "shoes/jord-0640d21b/4.webp",
+    "shoes/jord-0640d21b/5.webp"
+   ]
+  },
+  {
+   "id": "onit-0400b488",
+   "brand": "Onitsuka Tiger",
+   "name": "Tokuten Slip-On",
+   "colorway": "Black White",
+   "gender": "Unisex",
+   "price": 12999,
+   "mrp": 18199,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Tokuten Slip-On in Black White combines heritage sportswear design with contemporary ease. Featuring the brand's signature lightweight construction and responsive cushioning, this slip-on delivers comfort for daily wear without compromising on style. The clean monochromatic colorway pairs versatile appeal with the iconic Onitsuka Tiger aesthetic, making it equally suited to casual outings or relaxed professional settings. Built with quality materials and refined craftsmanship, these sneakers represent the brand's commitment to functional elegance and timeless athletic footwear."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "KICKSTART2026",
+    "ONITSUKA",
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-tokuten-slip-on-black-white",
+   "cutout": "shoes/onit-0400b488/cutout.webp",
+   "cutoutAspect": 2.2606,
+   "images": [
+    "shoes/onit-0400b488/1.webp",
+    "shoes/onit-0400b488/2.webp",
+    "shoes/onit-0400b488/3.webp",
+    "shoes/onit-0400b488/4.webp"
+   ]
+  },
+  {
+   "id": "newb-013af3ae",
+   "brand": "New Balance",
+   "name": "Abzorb 2000",
+   "colorway": "Violet/Sea Salt",
+   "gender": "Men",
+   "price": 18999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The ABZORB 2000 takes a distinctive feature of notable 2000s running-inspired classics and makes it the focal point of an all-new style. This progressive, experimental design features a full-length combination of ABZORB cushioning and ABZORB SBS pods. This thoroughly futuristic outlook is also reflected with a minimalist-influenced upper design. It’s a new way of looking at visible tech.",
+     "Features"
+    ],
+    "bullets": [
+     "A full-length ABZORB sole unit combines ABZORB cushioning and ABZORB SBS pods",
+     "Segmented sole unit features a Stability Web shank",
+     "Sculpted midsole details",
+     "Printed 'N' branding",
+     "Reflective accents"
+    ]
+   },
+   "tags": [
+    "Brand - New Balance",
+    "Footwear",
+    "For Footwear",
+    "Franchise : ABZORB 2000",
+    "free-delivery",
+    "FREE-SHIPPING",
+    "Gender - Men",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-abzorb-2000-violet-sea-salt",
+   "cutout": "shoes/newb-013af3ae/cutout.webp",
+   "cutoutAspect": 2.0,
+   "images": [
+    "shoes/newb-013af3ae/1.webp",
+    "shoes/newb-013af3ae/2.webp",
+    "shoes/newb-013af3ae/3.webp",
+    "shoes/newb-013af3ae/4.webp",
+    "shoes/newb-013af3ae/5.webp"
+   ]
+  },
+  {
+   "id": "asic-14a53615",
+   "brand": "Asics",
+   "name": "Gel-Kinetic 2.0",
+   "colorway": "Pure Silver/Blue Coast",
+   "gender": "Men",
+   "price": 18699,
+   "mrp": 21999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The GEL-KINETIC™ 2.0 sneaker combines Y3K design influences with advanced cushioning properties for everyday movements.",
+     "Synthetic leather overlays from 2000s running shoe models are molded into PU overlays for a modernized aesthetic. Its technical aesthetics draw inspiration from iconic ASICS running franchises, like the GEL-KINETIC™ and GEL-FRANTIC™ series.",
+     "The positioning of our scutoid GEL™ technology pods on this version have been moved directly underfoot. Informed by foot pressure testing data, the pods offer improved force distribution from the ground to help increase comfort. These pods are also accompanied by a FF BLAST™ PLUS midsole that's encapsulated with a TPU TRUSSTIC™ cage. This helps promote advanced impact absorption, cushioning, and stability."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "affiliate_5",
+    "Brand - ASICS",
+    "Footwear",
+    "For Footwear",
+    "Franchise: GEL-KINETIC 2.0",
+    "free-delivery",
+    "Gender - Men",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-gel-kinetic-2-0-pure-silver-blue-coast",
+   "cutout": "shoes/asic-14a53615/cutout.webp",
+   "cutoutAspect": 1.8277,
+   "images": [
+    "shoes/asic-14a53615/1.webp",
+    "shoes/asic-14a53615/2.webp",
+    "shoes/asic-14a53615/3.webp",
+    "shoes/asic-14a53615/4.webp",
+    "shoes/asic-14a53615/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0310aca6",
+   "brand": "Nike",
+   "name": "Ava Edge SE",
+   "colorway": "Dark Hazel/Oxen Brown-Dark Hazel-Black",
+   "gender": "Women",
+   "price": 13995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Inspired by the geometry of modern cities, the Nike Ava Edge is built for crisscrossing the concrete jungle. It combines a flexible upper with performance-level cushioning and an outsole that leaves a memorable mark. Navigating the city is a sport in itself, so show up prepared in a shoe that's stylistically advanced and engineered for comfort.",
+     "Flexible upper combines woven textiles and mesh netting for a layered look that lasts.",
+     "Thick foam midsole provides a soft, cushioned feel.",
+     "Perforated rubber outsole wraps onto the midsole for added durability."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole",
+     "Reflective details",
+     "Not intended for use as Personal Protective Equipment (PPE)"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise - Ava Edge SE",
+    "Gender - Men",
+    "Gender - Women",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-ava-edge-se-dark-hazel-oxen-brown-dark-hazel-black",
+   "cutout": "shoes/nike-0310aca6/cutout.webp",
+   "cutoutAspect": 1.9152,
+   "images": [
+    "shoes/nike-0310aca6/1.webp",
+    "shoes/nike-0310aca6/2.webp",
+    "shoes/nike-0310aca6/3.webp",
+    "shoes/nike-0310aca6/4.webp",
+    "shoes/nike-0310aca6/5.webp"
+   ]
+  },
+  {
+   "id": "adid-01c0cce6",
+   "brand": "adidas",
+   "name": "Taekwondo",
+   "colorway": "Cream White/Utility Black/Gum",
+   "gender": "Women",
+   "price": 4947,
+   "mrp": 10999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": false
+    },
+    {
+     "label": "UK 6",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Low-profile slip-on shoes with premium leather upper for authentic street style.",
+     "The adidas Taekwondo Shoes are a tribute to the iconic era of the early 2000s, blending martial arts heritage with modern style. These shoes are designed for those who appreciate a low-profile slip-on construction, offering both comfort and nostalgia. Crafted with a leather upper and synthetic materials, these shoes provide a soft inner construction for a comfortable fit. With a super-low-profile rubber outsole, they are made for street wear, allowing you to step out in style. The serrated 3-Stripes and authentic Badge of Sports branding on the lace cover and heel patch add an extra dash of sportswear heritage to an iconic look. Whether you're a fan of martial arts or simply love the Originals collection, these shoes are a must-have addition to your wardrobe. Embrace the past and step confidently into the future with adidas."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "abc-camp",
+    "ADIDAS&OG",
+    "affiliate_5",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Classics",
+    "Diwalipush",
+    "FIRSTTIMEONDISC"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-taekwondo-cream-white-utility-black-gum",
+   "cutout": "shoes/adid-01c0cce6/cutout.webp",
+   "cutoutAspect": 2.2256,
+   "images": [
+    "shoes/adid-01c0cce6/1.webp",
+    "shoes/adid-01c0cce6/2.webp",
+    "shoes/adid-01c0cce6/3.webp",
+    "shoes/adid-01c0cce6/4.webp",
+    "shoes/adid-01c0cce6/5.webp"
+   ]
+  },
+  {
+   "id": "jord-0a34efc5",
+   "brand": "Jordan",
+   "name": "Air Jordan 12 Retro “Fireside”",
+   "colorway": "Lt Orewood Brn/Cacao Wow-Cacao Wow",
+   "gender": "Men",
+   "price": 18395,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Sweater weather? We got you. The AJ12 returns in a rustic \"Fireside\" colorway, mixing Light Orewood Brown with Cacao Wow overlays and accents. Premium leather in the upper combines with full-length Air Zoom cushioning for a smooth, comfy ride. The radial sunrise-inspired stitch lines hook back to the buzzer-beating original. So, kick back and let the heat from your sneakers warm your feet by the fire. Cue the starry skies and toasted marshmallows.",
+     "Premium leather upper is durable and comfortable.",
+     "Air Zoom cushioning helps provide a quick-off-the-ground sensation.",
+     "Grippy rubber outsole helps provide durable traction."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "High collar",
+     "Pull tab on heel"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "Franchise : AIR JORDAN 12 RETRO",
+    "Gender - Men",
+    "Jordan Footwear",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
+   "cutout": "shoes/jord-0a34efc5/cutout.webp",
+   "cutoutAspect": 1.7365,
+   "images": [
+    "shoes/jord-0a34efc5/1.webp",
+    "shoes/jord-0a34efc5/2.webp",
+    "shoes/jord-0a34efc5/3.webp",
+    "shoes/jord-0a34efc5/4.webp",
+    "shoes/jord-0a34efc5/5.webp"
+   ]
+  },
+  {
+   "id": "onit-06845ed0",
+   "brand": "Onitsuka Tiger",
+   "name": "Tokuten",
+   "colorway": "Blue Fusion Gum",
+   "gender": "Unisex",
+   "price": 10689,
+   "mrp": 23000,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 8.5",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 9.5",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Tokuten Blue Fusion Gum brings together vintage athletic styling and vibrant color contrast through a sleek low-profile silhouette inspired by classic indoor training footwear. The upper features smooth blue leather construction accented by tonal suede overlays that add depth and texture while reinforcing the retro aesthetic. Contrasting tiger stripes stand out across the side panels, creating a bold visual identity that highlights the sneaker’s heritage design language. Subtle gold branding along the lateral side introduces a premium touch that complements the sporty color arrangement without overpowering the clean layout. The streamlined cushioned midsole keeps the pair lightweight and comfortable for everyday movement, while the gum rubber outsole enhances traction and delivers an authentic old-school finish that pairs naturally with the upper tones. Its mix of vivid blue shades, vintage detailing, and timeless court-inspired structure makes the sneaker suitable for both casual streetwear styling and versatile daily wear."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-tokuten-blue-fusion-gum",
+   "cutout": "shoes/onit-06845ed0/cutout.webp",
+   "cutoutAspect": 2.1318,
+   "images": [
+    "shoes/onit-06845ed0/1.webp"
+   ]
+  },
+  {
+   "id": "newb-062eb1fb",
+   "brand": "New Balance",
+   "name": "204L",
+   "colorway": "Black/Magnet",
+   "gender": "Women",
+   "price": 8999,
+   "mrp": 11999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 5",
+     "available": false
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Enter the 204L: an unexpected interpretation of 2000s running-inspired style. This low-profile silhouette blends the slim structure of '70s running shoes with tech-inspired texture of premium suede. Pulling design elements from past and present New Balance favorites, the 204L feels familiar, yet new. Its sleek proportions, accented with arced lines across the overlay, make the 204L both unique and easy to wear."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "3DAYSOFFER",
+    "Brand - New Balance",
+    "Footwear",
+    "For Footwear",
+    "Franchise : 204L",
+    "free-delivery",
+    "Gender - Men",
+    "Gender - Women"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-204l-black-magnet",
+   "cutout": "shoes/newb-062eb1fb/cutout.webp",
+   "cutoutAspect": 2.026,
+   "images": [
+    "shoes/newb-062eb1fb/1.webp",
+    "shoes/newb-062eb1fb/2.webp",
+    "shoes/newb-062eb1fb/3.webp",
+    "shoes/newb-062eb1fb/4.webp",
+    "shoes/newb-062eb1fb/5.webp"
+   ]
+  },
+  {
+   "id": "asic-1a06ef78",
+   "brand": "Asics",
+   "name": "Gel-NYC",
+   "colorway": "Smoke Grey/Black",
+   "gender": "Men",
+   "price": 12999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The GEL-NYC sneaker sources inspiration from heritage and modern performance running styles.",
+     "Its upper construction references the GEL-NIMBUS 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS V shoe design. The overlays are also updated with patent synthetic leather for a premium finish.",
+     "The tooling contrasts the upper's retro influences by using the GEL-CUMULUS 16 shoe's tooling system. The sneaker's soft cushioning properties are left intact. It features dual GEL technology inserts, FLUIDRIDE technology, and FLYTEFOAM technology to help provide a comfortable feel underfoot."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - ASICS",
+    "Footwear",
+    "Franchise: GEL-NYC",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-gel-nyc-smoke-grey-black",
+   "cutout": "shoes/asic-1a06ef78/cutout.webp",
+   "cutoutAspect": 1.9498,
+   "images": [
+    "shoes/asic-1a06ef78/1.webp",
+    "shoes/asic-1a06ef78/2.webp",
+    "shoes/asic-1a06ef78/3.webp",
+    "shoes/asic-1a06ef78/4.webp",
+    "shoes/asic-1a06ef78/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0313373b",
+   "brand": "Nike",
+   "name": "P-6000",
+   "colorway": "Sand Drift/Linen/Sail",
+   "gender": "Women",
+   "price": 9695,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": false
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The P-6000 is a mash-up of Pegasus sneakers past. It takes the early 2000s running style to modern heights by combining sporty design lines with breathable textiles. And its foam cushioning adds a lifted, athletics-inspired stance for unbelievable comfort.",
+     "Benefits"
+    ],
+    "bullets": [
+     "Textile upper with leather overlays is durable and breathable.",
+     "Throwback design draws on Nike Pegasus 25 and Nike Pegasus 2006.",
+     "Rubber outsole provides durable traction."
+    ]
+   },
+   "tags": [
+    "abc-camp",
+    "Brand - Nike",
+    "Footwear",
+    "For Footwear",
+    "For Free Shipping",
+    "Franchise: P-6000",
+    "free-delivery",
+    "Gender - Women"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-p-6000-sand-drift-linen-sail",
+   "cutout": "shoes/nike-0313373b/cutout.webp",
+   "cutoutAspect": 1.9113,
+   "images": [
+    "shoes/nike-0313373b/1.webp",
+    "shoes/nike-0313373b/2.webp",
+    "shoes/nike-0313373b/3.webp",
+    "shoes/nike-0313373b/4.webp",
+    "shoes/nike-0313373b/5.webp"
+   ]
+  },
+  {
+   "id": "adid-01ce8c51",
+   "brand": "adidas",
+   "name": "X SP5DER Adizero F50 Formotion",
+   "colorway": "Red/Supplier Colour/Core Black",
+   "gender": "Men",
+   "price": 19999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "SP5DER x adidas F50 Formotion.",
+     "Glossy red meets vivid pink across the upper, Three Stripes and Formotion sole. Loud, graphic and built to stand out.",
+     "Football, the SP5DER way."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "ADIDAS ORIGINALS x SP5DER",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "collab room",
+    "Footwear",
+    "franchise-  ADIZERO F50",
+    "Gender - Men",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
+   "cutout": "shoes/adid-01ce8c51/cutout.webp",
+   "cutoutAspect": 1.8328,
+   "images": [
+    "shoes/adid-01ce8c51/1.webp",
+    "shoes/adid-01ce8c51/2.webp",
+    "shoes/adid-01ce8c51/3.webp",
+    "shoes/adid-01ce8c51/4.webp",
+    "shoes/adid-01ce8c51/5.webp"
+   ]
+  },
+  {
+   "id": "jord-18d7851c",
+   "brand": "Jordan",
+   "name": "Air Jordan 5 Retro “Halloween”",
+   "colorway": "Black/Black-Picante Red-Glow N The Dark",
+   "gender": "Men",
+   "price": 19295,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The spooky season's upon us. Step into the shadows in this sinister take on the AJ5. Premium black nubuck cloaks the upper to keep you out of sight. Spine-chilling Picante Red accents emerge like a jack-o-lantern's flickering glare in the dead of night. Glow-in-the-dark details bring a ghostly glimmer to the legendary silhouette. The net-inspired tongue and quarter panels combine with a jagged midsole, bump-out collar and lace locks to revive the original 1990 build. An Air-cushioned heel and forefoot let you ditch the ghosts, ghouls and goblins in comfort, but beware the Black Cat.",
+     "Premium leather and nubuck upper adds durable comfort.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "Plush and comfortable, Max Air cushioning has just the right amount of support."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Glow-in-the-dark details"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "Franchise: AIR JORDAN 5",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "pre-order-product"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+   "cutout": "shoes/jord-18d7851c/cutout.webp",
+   "cutoutAspect": 1.5829,
+   "images": [
+    "shoes/jord-18d7851c/1.webp",
+    "shoes/jord-18d7851c/2.webp",
+    "shoes/jord-18d7851c/3.webp",
+    "shoes/jord-18d7851c/4.webp",
+    "shoes/jord-18d7851c/5.webp"
+   ]
+  },
+  {
+   "id": "onit-0a5a90cf",
+   "brand": "Onitsuka Tiger",
+   "name": "Mexico 66",
+   "colorway": "Cream Piquant Orange",
+   "gender": "Unisex",
+   "price": 18499,
+   "mrp": 29119,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "You're eyeing the Onitsuka Tiger Mexico 66 in Cream Piquant Orange, that NM edition where Japan's craftsmen pour their souls into hand-dyeing each pair - think soft goat leather and suede uppers that hug your feet just right, no two kicks exactly alike thanks to those subtle shrinks, wrinkles, and texture shifts from the process. It's the classic Mexico 66 blueprint, blending 1960s Limber-Up vibes with Tiger Stripes flair, but elevated with an in-house sole that's thin yet cushions like a dream, paired with a resilient insole for that supple, burden-free stride. Whether you're pounding city streets all day or kicking back on longer hauls, these Made-in-Japan beauties keep your feet comfy and looking sharp, turning everyday steps into something with real character - because who doesn't want sneakers that feel personal, like they get your rhythm?",
+     "Hand-Dyed by Japanese Craftsmen",
+     "Skilled artisans in Japan manually dye every pair of these Mexico 66 NM, creating one-of-a-kind variations - no duplicates here. Notice the unique shrinkage from the dye, the wrinkled upper texture, and how goat leather meets suede for distinct feels. It's that attention to detail that makes your feet pop while delivering a snug, beautiful fit you can wear from dawn patrols to late-night hangs without missing a beat.",
+     "Soft Goat Leather Upper"
+    ],
+    "bullets": [
+     "ETA Shipping – approx. 18–20 days"
+    ]
+   },
+   "tags": [
+    "All Sneakers",
+    "Big Payday Sale",
+    "Lifestyle",
+    "Low Tops",
+    "Onitsuka Tiger",
+    "Onitsuka Tiger Mexico 66",
+    "Only Few Left",
+    "Sale Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-mexico-66-cream-piquant-orange",
+   "cutout": "shoes/onit-0a5a90cf/cutout.webp",
+   "cutoutAspect": 2.5421,
+   "images": [
+    "shoes/onit-0a5a90cf/1.webp",
+    "shoes/onit-0a5a90cf/2.webp",
+    "shoes/onit-0a5a90cf/3.webp"
+   ]
+  },
+  {
+   "id": "newb-0a5ae488",
+   "brand": "New Balance",
+   "name": "Abzorb 2010",
+   "colorway": "Black/Shadow Grey/Sea Salt",
+   "gender": "Men",
+   "price": 15999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The ABZORB 2010 combines the excitement of a progressive, all-new style with a sense of the familiar. The segmented ABZORB sole unit, a signature feature of several 2000s-era fan favorites, features more expansive proportions, becoming the centerpiece of this new design.",
+     "Features"
+    ],
+    "bullets": [
+     "ABZORB midsole, with ABZORB SBS at the heel and forefoot",
+     "ABZORB midsole absorbs impact through a combination of cushioning and compression resistance",
+     "Translucent TPU Stability Web shank at midfoot",
+     "Sculpted midsole details",
+     "Reflective accents",
+     "Molded 'N' logo"
+    ]
+   },
+   "tags": [
+    "Brand - New Balance",
+    "Footwear",
+    "For Footwear",
+    "Franchise : ABZORB 2010",
+    "free-delivery",
+    "FREE-SHIPPING",
+    "Gender - Men",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-abzorb-2010-black-shadow-grey-sea-salt",
+   "cutout": "shoes/newb-0a5ae488/cutout.webp",
+   "cutoutAspect": 1.9505,
+   "images": [
+    "shoes/newb-0a5ae488/1.webp",
+    "shoes/newb-0a5ae488/2.webp",
+    "shoes/newb-0a5ae488/3.webp",
+    "shoes/newb-0a5ae488/4.webp",
+    "shoes/newb-0a5ae488/5.webp"
+   ]
+  },
+  {
+   "id": "asic-1b2e59fc",
+   "brand": "Asics",
+   "name": "Earls X Gel-Cumulus 16",
+   "colorway": "Coconut Milk/Black",
+   "gender": "Men",
+   "price": 16149,
+   "mrp": 18999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The GEL-CUMULUS™ 16 sneaker is a personal expression of Brown's values and Maori culture, centred on home and healing. Mesh panelling nods to the original collaboration and reflects the Maori principle of honouring those who help us move forward. Pebbled SILKYWRAP™ ASICS Stripes symbolise the years of dedication by Brown's mother, with their aged texture representing experience gained over time, while brown overlays speak to family heritage and a sense of comfort and belonging. The design retains the iconic silver accents of the GEL-CUMULUST line, acknowledging ASICS' performance legacy, while custom insoles recreate the carpet from Brown's childhood home, marking the beginning of his journey as a young footballer."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - ASICS",
+    "collab room",
+    "Footwear",
+    "For Footwear",
+    "Franchise: GEL-CUMULUS 16",
+    "free-delivery",
+    "Gender - Men",
+    "Low Profile Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-earls-x-gel-cumulus-16-coconut-milk-black",
+   "cutout": "shoes/asic-1b2e59fc/cutout.webp",
+   "cutoutAspect": 1.9963,
+   "images": [
+    "shoes/asic-1b2e59fc/1.webp",
+    "shoes/asic-1b2e59fc/2.webp",
+    "shoes/asic-1b2e59fc/3.webp",
+    "shoes/asic-1b2e59fc/4.webp",
+    "shoes/asic-1b2e59fc/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0491336f",
+   "brand": "Nike",
+   "name": "Ava X",
+   "colorway": "Light Bone/Siren Red-Black-Lt Khaki",
+   "gender": "Men",
+   "price": 9175,
+   "mrp": 10795,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The modern look you crave with the comfort you need to bring confidence to every step. The ultra lightweight Ava X has a stripped down, sleek look, making it practical and packable. Soft cushioning and all-over support offers comfort and stability wherever you go.",
+     "Textile upper with synthetic leather details is durable, breathable and comfortable.",
+     "Cushlon 3.0 midsole offers soft, responsive cushioning.",
+     "Supportive fit provides stability as you move through your day."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise: AVA X",
+    "free-delivery",
+    "Gender - Men",
+    "JORDAN-NIKE"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-ava-x-light-bone-siren-red-black-lt-khaki",
+   "cutout": "shoes/nike-0491336f/cutout.webp",
+   "cutoutAspect": 2.0717,
+   "images": [
+    "shoes/nike-0491336f/1.webp",
+    "shoes/nike-0491336f/2.webp",
+    "shoes/nike-0491336f/3.webp",
+    "shoes/nike-0491336f/4.webp",
+    "shoes/nike-0491336f/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0368b665",
+   "brand": "adidas",
+   "name": "X Chavarria Jabbar Low",
+   "colorway": "Core Black",
+   "gender": "Men",
+   "price": 11999,
+   "mrp": 15999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Leather shoes with a rubber outsole for street style.",
+     "Step into a world where style meets legacy with the Chavarria Jabbar Low shoes. Inspired by the iconic Kareem Abdul-Jabbar, these shoes are a nod to basketball heritage while embracing modern street style. Crafted with a leather upper and lining, they offer a premium feel and timeless look that complements any casual outfit. The rubber outsole ensures durability and grip, making them perfect for city adventures. With a lace closure, these shoes provide a secure fit, allowing you to move confidently through your day. Whether you're hitting the streets or enjoying a laid-back weekend, the Chavarria Jabbar Low shoes are your go-to for effortless style. Embrace the rebellious optimism of adidas Originals and make a statement with every step. These shoes are more than just footwear; they're a celebration of individuality and the spirit of basketball."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "collab room",
+    "Footwear",
+    "For Footwear",
+    "Franchise: JABBAR"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-chavarria-jabbar-low-core-black",
+   "cutout": "shoes/adid-0368b665/cutout.webp",
+   "cutoutAspect": 2.2573,
+   "images": [
+    "shoes/adid-0368b665/1.webp",
+    "shoes/adid-0368b665/2.webp",
+    "shoes/adid-0368b665/3.webp",
+    "shoes/adid-0368b665/4.webp",
+    "shoes/adid-0368b665/5.webp"
+   ]
+  },
+  {
+   "id": "jord-1b41ad3a",
+   "brand": "Jordan",
+   "name": "Air Jordan Mule SE",
+   "colorway": "Off Noir/Metallic Gold-Chalk",
+   "gender": "Women",
+   "price": 11994,
+   "mrp": 14995,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": false
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Air Jordan Mule combines a classic loafer upper, a soft foam platform and heritage Jordan style. What you get is a sleek and comfortable shoe that's solid enough for everyday wear. Rubber sidewalls give you a chunky look while premium hardware adds an elegant touch.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "Foam platform works with rubber sidewalls to create a chunky look without added weight.",
+     "Slip-on construction lets you get out the door fast."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "For Footwear",
+    "Franchise:  AIR JORDAN MULE",
+    "free-delivery",
+    "Fresh Arrivals",
+    "Gender - Women",
+    "Jordan Footwear"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-mule-se-off-noir-metallic-gold-chalk",
+   "cutout": "shoes/jord-1b41ad3a/cutout.webp",
+   "cutoutAspect": 1.8114,
+   "images": [
+    "shoes/jord-1b41ad3a/1.webp",
+    "shoes/jord-1b41ad3a/2.webp",
+    "shoes/jord-1b41ad3a/3.webp",
+    "shoes/jord-1b41ad3a/4.webp",
+    "shoes/jord-1b41ad3a/5.webp"
+   ]
+  },
+  {
+   "id": "onit-18fac6d9",
+   "brand": "Onitsuka Tiger",
+   "name": "Serrano",
+   "colorway": "Pink Cameo Midnight",
+   "gender": "Unisex",
+   "price": 16999,
+   "mrp": 28000,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 8.5",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 9.5",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 10.5",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Serrano in Pink Cameo Midnight combines elegant pink hues with deep midnight accents for a sophisticated yet striking look. Designed with meticulous craftsmanship, this sneaker offers comfortable wear and enduring style, perfect for those seeking a refined statement in their footwear collection."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "LOWS",
+    "onitsuga",
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-serrano-pink-cameo-midnight",
+   "cutout": "shoes/onit-18fac6d9/cutout.webp",
+   "cutoutAspect": 2.2273,
+   "images": [
+    "shoes/onit-18fac6d9/1.webp",
+    "shoes/onit-18fac6d9/2.webp",
+    "shoes/onit-18fac6d9/3.webp"
+   ]
+  },
+  {
+   "id": "newb-10688815",
+   "brand": "New Balance",
+   "name": "327",
+   "colorway": "Digital Mist",
+   "gender": "Women",
+   "price": 10999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet."
+    ],
+    "bullets": [
+     "Flared midsole",
+     "Oversized N logo adds retro-inspired style",
+     "Medial linear ‘New Balance’ text branding",
+     "Lugged outsole inspired by 355 trail running shoe",
+     "Rubber heel wrap inspired by 320, 355, and Supercomp",
+     "Retro inspired nylon tongue",
+     "Split eyerow"
+    ]
+   },
+   "tags": [
+    "Brand - New Balance",
+    "Footwear",
+    "Franchise: 327",
+    "Gender - Women",
+    "New Arrivals",
+    "Season: FW26",
+    "Sneakers",
+    "STAYVISTA15"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-327-digital-mist",
+   "cutout": "shoes/newb-10688815/cutout.webp",
+   "cutoutAspect": 1.9431,
+   "images": [
+    "shoes/newb-10688815/1.webp",
+    "shoes/newb-10688815/2.webp",
+    "shoes/newb-10688815/3.webp",
+    "shoes/newb-10688815/4.webp",
+    "shoes/newb-10688815/5.webp"
+   ]
+  },
+  {
+   "id": "asic-2660e1d9",
+   "brand": "Asics",
+   "name": "Hypersync",
+   "colorway": "White/Pure Silver",
+   "gender": "Men",
+   "price": 8499,
+   "mrp": 9999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track & field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment.",
+     "The upper channels influences from the HYPERPOWER™ track & field shoe. These features include sleek synthetic leather overlays, decorative stitching details, and different air mesh underlays.",
+     "The outsole references the SNAPDOWN™ wrestling shoe series. It features a low-profile tooling system that's met with a modified sockliner for comfort in various scenarios.",
+     "DETAILS:"
+    ],
+    "bullets": [
+     "OrthoLite™ X-40 sockliner Sockliner that provides a higher rebound and good underfoot comfort.",
+     "Upper design inspired by track spike for a sleek aesthetic.",
+     "OrthoLite™ heel cup",
+     "Non-marking outsole.",
+     "AHARPLUS™ outsole rubber ASICS' pinnacle high abrasion resistant rubber located in the heel area that is approximately three times more durable than standard outsole rubbers."
+    ]
+   },
+   "tags": [
+    "affiliate_5",
+    "Brand - ASICS",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise : HYPERSYNC",
+    "free-delivery",
+    "Gender - Men"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-hypersync-white-pure-silver",
+   "cutout": "shoes/asic-2660e1d9/cutout.webp",
+   "cutoutAspect": 2.0795,
+   "images": [
+    "shoes/asic-2660e1d9/1.webp",
+    "shoes/asic-2660e1d9/2.webp",
+    "shoes/asic-2660e1d9/3.webp",
+    "shoes/asic-2660e1d9/4.webp",
+    "shoes/asic-2660e1d9/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0695a71d",
+   "brand": "Nike",
+   "name": "Air Force 1 Low Retro Camo",
+   "colorway": "Multi-Color/Multi-Color-Rough Green",
+   "gender": "Men",
+   "price": 11995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 Retro takes you back to the sleek, slimmer profile from 2001. Its upper combines synthetic leather and textile into a camo design.",
+     "Retro profile features a slimmer look, rounded toe box, curved heel tab and longer tongue.",
+     "Synthetic leather and textile upper with perforated toe box is breathable and comfortable.",
+     "Nike Air unit provides lightweight cushioning."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: AIR FORCE 1",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-force-1-low-retro-camo-multi-color-multi-color-rough-green",
+   "cutout": "shoes/nike-0695a71d/cutout.webp",
+   "cutoutAspect": 2.0036,
+   "images": [
+    "shoes/nike-0695a71d/1.webp",
+    "shoes/nike-0695a71d/2.webp",
+    "shoes/nike-0695a71d/3.webp",
+    "shoes/nike-0695a71d/4.webp",
+    "shoes/nike-0695a71d/5.webp"
+   ]
+  },
+  {
+   "id": "adid-037ca8e5",
+   "brand": "adidas",
+   "name": "Hyperboost Edge",
+   "colorway": "Hyper White/Solar Turbo/Solar Turbo",
+   "gender": "Men",
+   "price": 19999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Hyperboost Edge introduces a new era of road running by combining maximum cushioning, high energy return and lightweight performance in one shoe. The shoe combines three breakthrough technologies: the new Hyperboost Pro midsole, a PRIMEWEAVE upper and a LIGHTTRAXION outsole to balance comfort and responsiveness in every stride. Crafted with no plates or stiffening elements, a new foam works naturally through the gait cycle creating a lightweight and propulsive ride. At the heart of this new running experience is the Hyperboost Pro foam, a high-performance material that provides maximum cushioning, with no compromises. Drawing on adidas’ elite racing midsole technologies, the new foam formulation delivers an experience optimized for every type of run, from daily sessions to high mileage training."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "core_running",
+    "Footwear",
+    "Franchise : HYPERBOOST",
+    "Gender - Men",
+    "New Arrivals",
+    "RUN25"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-hyperboost-edge-hyper-white-solar-turbo-solar-turbo",
+   "cutout": "shoes/adid-037ca8e5/cutout.webp",
+   "cutoutAspect": 2.0942,
+   "images": [
+    "shoes/adid-037ca8e5/1.webp",
+    "shoes/adid-037ca8e5/2.webp",
+    "shoes/adid-037ca8e5/3.webp",
+    "shoes/adid-037ca8e5/4.webp",
+    "shoes/adid-037ca8e5/5.webp"
+   ]
+  },
+  {
+   "id": "jord-24998d75",
+   "brand": "Jordan",
+   "name": "Trunner O/S",
+   "colorway": "Black/White",
+   "gender": "Men",
+   "price": 7270,
+   "mrp": 9695,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Trunner O/S reimagines the classic Jordan Trunner for off-court wear. Originally a cross-trainer in the late ‘90s and early 2000s, it’s a Y2K staple redesigned for everyday comfort. Breathable mesh keeps the upper flexible, while responsive foam and molded midfoot wings deliver smooth, soft steps.",
+     "Plush tongue and collar give you padded comfort and easy on and off.",
+     "Molded plastic support wings give you midfoot containment for a sturdy feel.",
+     "Soft and responsive Cushlon 3.0 foam supports you for smooth ride."
+    ],
+    "bullets": [
+     "Not intended for use as Personal Protective Equipment (PPE)"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise: JORDAN TRUNNER O/S",
+    "free-delivery",
+    "Fresh Arrivals",
+    "Gender - Men"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-jordan-trunner-o-s-black-white",
+   "cutout": "shoes/jord-24998d75/cutout.webp",
+   "cutoutAspect": 2.0223,
+   "images": [
+    "shoes/jord-24998d75/1.webp",
+    "shoes/jord-24998d75/2.webp",
+    "shoes/jord-24998d75/3.webp",
+    "shoes/jord-24998d75/4.webp",
+    "shoes/jord-24998d75/5.webp"
+   ]
+  },
+  {
+   "id": "onit-1a473251",
+   "brand": "Onitsuka Tiger",
+   "name": "Mexico 66 Sabot",
+   "colorway": "Cream Mako Blue",
+   "gender": "Unisex",
+   "price": 19999,
+   "mrp": 53199,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 8.5",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 9.5",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 10.5",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 11.5",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Mexico 66 Sabot 'Cream Mako Blue' redefines the classic design with a slip-on silhouette for relaxed comfort. Its cream upper is highlighted by striking Mako Blue accents, combining vintage-inspired style with modern ease for everyday wear.",
+     "Step into nostalgic cool reimagined for daily life with the Onitsuka Tiger Mexico 66 Sabot ‘Cream Mako Blue.’ Built for fans of that off-duty, “hands-are-for-coffee” lifestyle, the retro-futurist sabot design is a nod to ‘60s icon status without demanding socks or laces. Slip on, flex mesh breathability, and coast from brunch to night walks - your sneaker rotation just got a lot easier, with maximum style shortcuts and minimal effort required.",
+     "Effortless Mule Design",
+     "Inspired by Onitsuka Tiger’s iconic ‘60s silhouette, the sabot reworks the classic shape into a mule for convenience and freedom. Backless construction means you slide in and out with zero struggle, while that signature Tiger stripe keeps your summer fit game locked - comfy, quick, and unmistakably heritage, whether you’re dashing out or strolling."
+    ],
+    "bullets": [
+     "ETA Shipping – approx. 18–20 days"
+    ]
+   },
+   "tags": [
+    "All Sneakers",
+    "Lifestyle",
+    "Low Tops",
+    "Onitsuka Tiger",
+    "Onitsuka Tiger Mexico 66"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-mexico-66-sabot-cream-mako-blue",
+   "cutout": "shoes/onit-1a473251/cutout.webp",
+   "cutoutAspect": 2.4104,
+   "images": [
+    "shoes/onit-1a473251/1.webp",
+    "shoes/onit-1a473251/2.webp",
+    "shoes/onit-1a473251/3.webp",
+    "shoes/onit-1a473251/4.webp"
+   ]
+  },
+  {
+   "id": "newb-11f9064c",
+   "brand": "New Balance",
+   "name": "471",
+   "colorway": "Cinnamon/Star Burst",
+   "gender": "Men",
+   "price": 9349,
+   "mrp": 10999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowing the elevated material choices to take the lead. Breathable mesh uppers and hairy suede overlays provide an effortlessly lived-in look, while the classic ‘fang’ design at the toebox is a uniquely New Balance visual flourish that sets the 471 apart from the pack."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - New Balance",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise : 471",
+    "free-delivery",
+    "Fresh Arrivals",
+    "Gender - Men"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-471-cinnamon-star-burst",
+   "cutout": "shoes/newb-11f9064c/cutout.webp",
+   "cutoutAspect": 2.1594,
+   "images": [
+    "shoes/newb-11f9064c/1.webp",
+    "shoes/newb-11f9064c/2.webp",
+    "shoes/newb-11f9064c/3.webp",
+    "shoes/newb-11f9064c/4.webp",
+    "shoes/newb-11f9064c/5.webp"
+   ]
+  },
+  {
+   "id": "asic-358c5dec",
+   "brand": "Asics",
+   "name": "Japan S",
+   "colorway": "Cream/Antique Red",
+   "gender": "Men",
+   "price": 8999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The JAPAN S shoes are based on one of our throwback offerings from 1981. This shoe features a court-inspired toe box and classic colorways that take your mind and body to new heights.",
+     "Updated with a lightweight design and a modified cupsole, this shoe is made for comfort. It's also paired with nostalgic branding, like the ASICS Stripes on the quarter-panels.",
+     "Originally worn by basketball players in the 1980s, this shoe reimagines its iconic court details with a modern lens."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Asics",
+    "Footwear",
+    "Franchise: JAPAN S",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "ship@250"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-japan-s-cream-antique-red",
+   "cutout": "shoes/asic-358c5dec/cutout.webp",
+   "cutoutAspect": 2.1299,
+   "images": [
+    "shoes/asic-358c5dec/1.webp",
+    "shoes/asic-358c5dec/2.webp",
+    "shoes/asic-358c5dec/3.webp",
+    "shoes/asic-358c5dec/4.webp",
+    "shoes/asic-358c5dec/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0883255e",
+   "brand": "Nike",
+   "name": "Pegasus Premium",
+   "colorway": "Dark Shadow/Black-Lemon Venom-White",
+   "gender": "Women",
+   "price": 19295,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return unlike any other. With a lighter-than-air upper, it decreases weight and increases breathability so you can fly faster.",
+     "Breathable, lightweight engineered mesh helps keep you contained.",
+     "Your foot sits on top of full-length ZoomX foam, Nike’s most responsive foam. It delivers incredible energy return with each stride.",
+     "The full-length Air Zoom unit offers our optimal level of springiness underfoot, unlocking a level of speed and responsiveness that’ll put pep in your miles."
+    ],
+    "bullets": [
+     "Weight: Approx. 325g/11.5oz (Men’s US 10)",
+     "Heel-to-toe drop: 10mm",
+     "Not intended for use as Personal Protective Equipment (PPE)"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "core_running",
+    "Footwear",
+    "Franchise: PEGASUS",
+    "Gender - Men",
+    "Gender - Women",
+    "JORDAN-NIKE",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
+   "cutout": "shoes/nike-0883255e/cutout.webp",
+   "cutoutAspect": 2.0111,
+   "images": [
+    "shoes/nike-0883255e/1.webp",
+    "shoes/nike-0883255e/2.webp",
+    "shoes/nike-0883255e/3.webp",
+    "shoes/nike-0883255e/4.webp",
+    "shoes/nike-0883255e/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0474c822",
+   "brand": "adidas",
+   "name": "X Clot Samba Espadrille By Edison Chen",
+   "colorway": "Floral Pink",
+   "gender": "Men",
+   "price": 13999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "A bold, artisanal reimagining of a pitch legend, the adidas Originals x CLOT Samba Espadrille by Edison Chen seamlessly bridges classic sportswear heritage with high-end summer craftsmanship. This limited-edition release strips away the traditional indoor football aesthetic, transforming the iconic wardrobe staple into a warm-weather luxury statement."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "collab room",
+    "Footwear",
+    "Franchise : SAMBA",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-x-clot-samba-espadrille-by-edison-chen-floral-pink",
+   "cutout": "shoes/adid-0474c822/cutout.webp",
+   "cutoutAspect": 2.1294,
+   "images": [
+    "shoes/adid-0474c822/1.webp",
+    "shoes/adid-0474c822/2.webp",
+    "shoes/adid-0474c822/3.webp",
+    "shoes/adid-0474c822/4.webp",
+    "shoes/adid-0474c822/5.webp"
+   ]
+  },
+  {
+   "id": "jord-25cba756",
+   "brand": "Jordan",
+   "name": "Son Of Mars Low",
+   "colorway": "Fire Red/Grey Mist/White/Black",
+   "gender": "Men",
+   "price": 14995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "INSPIRED HISTORY. CLASSIC DESIGN.",
+     "The Jordan Son of Mars Low plays it cool in a design that celebrates the intersection of Mike, Spike and the legendary ad campaign that brought them together. Real and synthetic leather combine for comfort and durability, while classic Jordan details make it a legend.",
+     "Real and synthetic leather overlays in the upper for durable support.",
+     "Perforated side panels in the upper for breathability."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "For Footwear",
+    "free-delivery",
+    "Fresh Arrivals",
+    "Gender - Men",
+    "Jordan Footwear",
+    "JORDAN-NIKE"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-son-of-mars-low-fire-red-grey-mist-white-black",
+   "cutout": "shoes/jord-25cba756/cutout.webp",
+   "cutoutAspect": 1.5309,
+   "images": [
+    "shoes/jord-25cba756/1.webp",
+    "shoes/jord-25cba756/2.webp",
+    "shoes/jord-25cba756/3.webp",
+    "shoes/jord-25cba756/4.webp",
+    "shoes/jord-25cba756/5.webp"
+   ]
+  },
+  {
+   "id": "onit-22e30156",
+   "brand": "Onitsuka Tiger",
+   "name": "Mexico 66 Slip-On",
+   "colorway": "Yellow Black",
+   "gender": "Unisex",
+   "price": 14999,
+   "mrp": 20998,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Mexico 66 Slip-On in Yellow Black combines vintage athletic heritage with contemporary ease. This iconic silhouette, originally designed in 1966, features a streamlined slip-on construction that eliminates lacing while maintaining the shoe's signature aesthetic. The striking yellow and black colorway delivers bold visual contrast, making it a versatile statement piece for casual wardrobes. Built with quality materials and Onitsuka Tiger's refined craftsmanship, this sneaker transitions effortlessly from everyday wear to lifestyle settings. The cushioned sole provides comfortable support for extended wear, while the timeless design ensures lasting style relevance."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "KICKSTART2026",
+    "ONITSUKA",
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-mexico-66-slip-on-yellow-black",
+   "cutout": "shoes/onit-22e30156/cutout.webp",
+   "cutoutAspect": 2.2589,
+   "images": [
+    "shoes/onit-22e30156/1.webp",
+    "shoes/onit-22e30156/2.webp",
+    "shoes/onit-22e30156/3.webp",
+    "shoes/onit-22e30156/4.webp"
+   ]
+  },
+  {
+   "id": "newb-167022bf",
+   "brand": "New Balance",
+   "name": "1000",
+   "colorway": "Black Cement/Sweetgrass/Castlerock",
+   "gender": "Men",
+   "price": 13599,
+   "mrp": 16999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The reissued 1000 brings a turn of the millennium classic out of the archives. Originally released in 1999, the 1000 embodied the era’s bold, futuristic styling with a streamlined, yet intricately detailed design. The standard mesh upper and synthetic overlay design is inverted, with mesh underlays, emerging from the more prominent overlay panels, for a refined, tech-inspired look. A segmented sole unit features ABZORB cushioning at the heel and forefoot, with a Stability Web midfoot shank."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "affiliate_5",
+    "Brand - New Balance",
+    "Footwear",
+    "For Footwear",
+    "Franchise: 1000",
+    "free-delivery",
+    "Fresh Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/new-balance-1000-black-cement-sweetgrass-castlerock",
+   "cutout": "shoes/newb-167022bf/cutout.webp",
+   "cutoutAspect": 1.8673,
+   "images": [
+    "shoes/newb-167022bf/1.webp",
+    "shoes/newb-167022bf/2.webp",
+    "shoes/newb-167022bf/3.webp",
+    "shoes/newb-167022bf/4.webp"
+   ]
+  },
+  {
+   "id": "asic-37d9c770",
+   "brand": "Asics",
+   "name": "Skyhand OG",
+   "colorway": "Midnight/Ivory",
+   "gender": "Men",
+   "price": 5848,
+   "mrp": 8999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The SKYHAND™ OG sneaker returns with original handball heritage. Surfacing with its 1990s design DNA, this shoe's slimmer-cut court silhouette is revamped with modern comfort properties.",
+     "The shoe's updated construction dons synthetic leather and suede paneling and gum outsoles. Its heel wedge also includes EVA cushioning.",
+     "Meanwhile, its retro design elements are met with a modernized heel counter and sockliner to ensure that a premium feel is consistently at play."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "affiliate_5",
+    "Brand - ASICS",
+    "FIRSTTIMEONDISC",
+    "Footwear",
+    "For Footwear",
+    "Franchise: SKYHAND OG",
+    "free-delivery"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/asics-skyhand-og-midnight-ivory",
+   "cutout": "shoes/asic-37d9c770/cutout.webp",
+   "cutoutAspect": 2.1373,
+   "images": [
+    "shoes/asic-37d9c770/1.webp",
+    "shoes/asic-37d9c770/2.webp",
+    "shoes/asic-37d9c770/3.webp",
+    "shoes/asic-37d9c770/4.webp",
+    "shoes/asic-37d9c770/5.webp"
+   ]
+  },
+  {
+   "id": "nike-0bb7551b",
+   "brand": "Nike",
+   "name": "SB Dunk Low Pro",
+   "colorway": "Saffron Quartz/Saffron Quartz-Pear",
+   "gender": "Men",
+   "price": 10995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Nike SB's Dunk Low Pro coasts back onto the scene in fresh, easy-to-style colors. The plush, low-cut collar and padded tongue mix with premium materials and Air Zoom cushioning in the heel for reliable comfort through your entire skate session.",
+     "Leather in the upper provides comfort and durability.",
+     "Air Zoom cushioning in the heel adds snappy response and comfort.",
+     "Perforations on the toes add breathability."
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: DUNK",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-sb-dunk-low-pro-saffron-quartz-saffron-quartz-pear",
+   "cutout": "shoes/nike-0bb7551b/cutout.webp",
+   "cutoutAspect": 2.2137,
+   "images": [
+    "shoes/nike-0bb7551b/1.webp",
+    "shoes/nike-0bb7551b/2.webp",
+    "shoes/nike-0bb7551b/3.webp",
+    "shoes/nike-0bb7551b/4.webp",
+    "shoes/nike-0bb7551b/5.webp"
+   ]
+  },
+  {
+   "id": "adid-065e781f",
+   "brand": "adidas",
+   "name": "Equipment Evo SL",
+   "colorway": "Aurora Coffee/Core Black/Equipment Green",
+   "gender": "Men",
+   "price": 11249,
+   "mrp": 14999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Shoes with LightstrikePro midsole for lightweight movement.",
+     "Born from the world of racing, the Equipment EVO SL Shoes are built for those who crave speed and style, with a lightweight design, nylon base and ripstop overlays. Light. Speed. Adidas LightstrikePro is redefining the next generation of speed with a super-light midsole designed for dynamic, lightweight movement. Whether you're hitting the streets or just hanging out, these shoes offer comfort and support for everyday wear. The adidas branding on the heel and the 3-Stripes on the side add a touch of classic style. Experience the future of footwear with a winning blend of performance and lifestyle."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "ADIDAS&OG",
+    "affiliate_5",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "core_running",
+    "Diwalipush",
+    "FIRSTTIMEONDISC",
+    "Footwear"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-equipment-evo-sl-aurora-coffee-core-black-equipment-green",
+   "cutout": "shoes/adid-065e781f/cutout.webp",
+   "cutoutAspect": 1.9502,
+   "images": [
+    "shoes/adid-065e781f/1.webp",
+    "shoes/adid-065e781f/2.webp",
+    "shoes/adid-065e781f/3.webp",
+    "shoes/adid-065e781f/4.webp",
+    "shoes/adid-065e781f/5.webp"
+   ]
+  },
+  {
+   "id": "jord-2e256f11",
+   "brand": "Jordan",
+   "name": "Pointe SE",
+   "colorway": "Black/Cacao Wow-Gum Dark Brown",
+   "gender": "Women",
+   "price": 11995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the hidden lacing system gives you multiple styling options—while the chunky sole and sleek leather give it a sportswear edge.",
+     "The Jordan Pointe can be styled in (at least) three ways: Through the front lace loops or back heel webbing and laced up the leg, or through the front lace loops and tied down low.",
+     "More Details"
+    ],
+    "bullets": [
+     "Low-cut collar"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "Gender - Men",
+    "Gender - Women",
+    "JORDAN POINTE",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
+   "cutout": "shoes/jord-2e256f11/cutout.webp",
+   "cutoutAspect": 1.1553,
+   "images": [
+    "shoes/jord-2e256f11/1.webp",
+    "shoes/jord-2e256f11/2.webp",
+    "shoes/jord-2e256f11/3.webp",
+    "shoes/jord-2e256f11/4.webp",
+    "shoes/jord-2e256f11/5.webp"
+   ]
+  },
+  {
+   "id": "onit-5201ab22",
+   "brand": "Onitsuka Tiger",
+   "name": "Gymnarina Silver Cream",
+   "colorway": "",
+   "gender": "Unisex",
+   "price": 19999,
+   "mrp": 24500,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Onitsuka Tiger GYMNARINA Silver Cream delivers a refined mix of ballet-inspired styling and sporty sneaker comfort, creating a standout silhouette with a soft, elegant edge. The silver upper gives the pair a clean metallic shine that feels modern without becoming too loud, while the cream detailing adds warmth and balance to the overall look. Its slim, low-profile shape keeps the design lightweight and graceful, making it easy to style with both casual and elevated outfits. The shoe carries a flexible, fashion-forward feel with smooth paneling, delicate lines, and signature Onitsuka Tiger accents that highlight the brand’s athletic heritage. The contrast between silver and cream makes the sneaker versatile, pairing well with denim, wide-leg trousers, skirts, relaxed co-ords, and neutral streetwear fits. Its sleek structure gives a polished appearance, while the comfortable sole design supports daily wear. The GYMNARINA Silver Cream is ideal for anyone looking for a sneaker that feels different from regular sporty pairs, offering a blend of shine, softness, comfort, and minimal sophistication in one stylish design."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-gymnarina-silver-cream",
+   "cutout": "shoes/onit-5201ab22/cutout.webp",
+   "cutoutAspect": 2.8482,
+   "images": [
+    "shoes/onit-5201ab22/1.webp"
+   ]
+  },
+  {
+   "id": "nike-0bf48638",
+   "brand": "Nike",
+   "name": "Shox Z",
+   "colorway": "White/Lt Magenta",
+   "gender": "Women",
+   "price": 8326,
+   "mrp": 11895,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": false
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Your favorite retro runner has reached its next evolution. The Shox Z has a slim, low-profile shape and a new take on the iconic column design.",
+     "Textile upper is light and breathable, and synthetic leather accents channel original Shox style.",
+     "Nike Shox columns provide resilient cushioning.",
+     "Modified, circular Waffle outsole gives you durable traction."
+    ],
+    "bullets": [
+     "Shiny finishes",
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "3DAYSOFFER",
+    "affiliate_5",
+    "Brand - Nike",
+    "FIRSTTIMEONDISC",
+    "Footwear",
+    "For Footwear",
+    "Franchise: NIKE others",
+    "free-delivery"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-shox-z-white-lt-magenta",
+   "cutout": "shoes/nike-0bf48638/cutout.webp",
+   "cutoutAspect": 2.0604,
+   "images": [
+    "shoes/nike-0bf48638/1.webp",
+    "shoes/nike-0bf48638/2.webp",
+    "shoes/nike-0bf48638/3.webp",
+    "shoes/nike-0bf48638/4.webp",
+    "shoes/nike-0bf48638/5.webp"
+   ]
+  },
+  {
+   "id": "adid-06c2e3f8",
+   "brand": "adidas",
+   "name": "Ozweego",
+   "colorway": "Bliss/Bliss",
+   "gender": "Men",
+   "price": 7799,
+   "mrp": 12999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Archive-inspired OZWEEGO shoes with major impact and absolute comfort.",
+     "Deciding what kicks to wear. Usually a difficult decision. Until you own these adidas OZWEEGO Shoes. Level up your look and keep it legit thanks to the bold lines that throw it back to the glory days of the '90s and 2000s. Let's face it. If this were a style race, you're winning. And staying incredibly comfortable while doing so, because did we mention the triple-threat cushioning? An EVA midsole packed with Adiprene and Adiprene+ cushioning delivers total comfort."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "3Days Fast shipping",
+    "abc-camp",
+    "ADIDAS&OG",
+    "affiliate_5",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "FIRSTTIMEONDISC"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-ozweego-bliss-bliss",
+   "cutout": "shoes/adid-06c2e3f8/cutout.webp",
+   "cutoutAspect": 2.1103,
+   "images": [
+    "shoes/adid-06c2e3f8/1.webp",
+    "shoes/adid-06c2e3f8/2.webp",
+    "shoes/adid-06c2e3f8/3.webp",
+    "shoes/adid-06c2e3f8/4.webp",
+    "shoes/adid-06c2e3f8/5.webp"
+   ]
+  },
+  {
+   "id": "jord-2f5e8e05",
+   "brand": "Jordan",
+   "name": "Spizike Low",
+   "colorway": "Black/University Red-Palomino-Phantom",
+   "gender": "Men",
+   "price": 14995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Spizike takes elements of five classic Jordans, combines them, and gives you one iconic sneaker. It's an homage to Spike Lee formally introducing Hollywood and hoops in a culture moment. You get a great looking pair of kicks with some history. What more can you ask for? Ya dig?",
+     "Real and synthetic leather and textile upper add durability.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "Solid rubber outsole provides durability and traction."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Footwear",
+    "For Brothers",
+    "For Footwear",
+    "Franchise: JORDAN SPIZIKE",
+    "free-delivery",
+    "Gender - Men",
+    "Jordan Footwear",
+    "JORDAN-NIKE"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-spizike-low-black-university-red-palomino-phantom",
+   "cutout": "shoes/jord-2f5e8e05/cutout.webp",
+   "cutoutAspect": 1.7883,
+   "images": [
+    "shoes/jord-2f5e8e05/1.webp",
+    "shoes/jord-2f5e8e05/2.webp",
+    "shoes/jord-2f5e8e05/3.webp",
+    "shoes/jord-2f5e8e05/4.webp",
+    "shoes/jord-2f5e8e05/5.webp"
+   ]
+  },
+  {
+   "id": "onit-5c65e800",
+   "brand": "Onitsuka Tiger",
+   "name": "Gymnarina Black Cream",
+   "colorway": "",
+   "gender": "Unisex",
+   "price": 17999,
+   "mrp": 24500,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Onitsuka Tiger GYMNARINA Black Cream brings a sleek mix of sporty structure and ballet-inspired elegance, making it a standout choice for everyday styling. The design features a clean black base balanced with soft cream detailing, giving the shoe a refined contrast that feels both minimal and premium. Its low-profile shape creates a slim and modern look, while the curved lines and delicate proportions add a graceful touch compared to traditional sneakers. The upper carries a smooth, flexible appearance that pairs well with casual outfits, relaxed streetwear, and more polished looks. Cream accents highlight the Onitsuka Tiger identity without making the design feel too loud, keeping the overall finish clean and versatile. The sole maintains a lightweight and comfortable feel, supporting daily wear while preserving the shoe’s sleek silhouette. With its blend of athletic heritage, feminine detailing, and neutral color blocking, the GYMNARINA Black Cream is easy to style with denim, cargos, skirts, wide-leg trousers, or monochrome outfits. It is a refined sneaker option for anyone who wants comfort, simplicity, and a slightly elevated fashion-forward look in one pair."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-gymnarina-black-cream",
+   "cutout": "shoes/onit-5c65e800/cutout.webp",
+   "cutoutAspect": 2.6716,
+   "images": [
+    "shoes/onit-5c65e800/1.webp"
+   ]
+  },
+  {
+   "id": "nike-0cf5e9ea",
+   "brand": "Nike",
+   "name": "Astrograbber Suede",
+   "colorway": "Lt Magenta/Muslin-Sail",
+   "gender": "Women",
+   "price": 9695,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": false
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Debuting on the heels of Nike's Waffle Trainer, the state-of-the-art Astrograbber was designed to better grip the turf on American football fields. Breathable textiles upgrade the gridiron classic to a modern status symbol worthy of everyday wear.",
+     "Textile upper is breathable and durable.",
+     "Rubber Waffle outsole provides durable traction and heritage style.",
+     "More Details"
+    ],
+    "bullets": [
+     "Low-cut silhouette",
+     "Padded collar",
+     "Foam midsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "For Footwear",
+    "Franchise",
+    "Franchise: ASTROGRABBER",
+    "free-delivery",
+    "Gender - Women",
+    "JORDAN-NIKE"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-astrograbber-suede-lt-magenta-muslin-sail",
+   "cutout": "shoes/nike-0cf5e9ea/cutout.webp",
+   "cutoutAspect": 2.1847,
+   "images": [
+    "shoes/nike-0cf5e9ea/1.webp",
+    "shoes/nike-0cf5e9ea/2.webp",
+    "shoes/nike-0cf5e9ea/3.webp",
+    "shoes/nike-0cf5e9ea/4.webp",
+    "shoes/nike-0cf5e9ea/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0732a0fa",
+   "brand": "adidas",
+   "name": "Gazelle Indoor",
+   "colorway": "Trace Brown / Warm Vanilla / Gum",
+   "gender": "Men",
+   "price": 11999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Gazelle Indoor Shoes From Adidas Originals Bring Legacy Style To Life. First Built For Indoor Use, This Version Stands Out With A Translucent Gum Sole That Wraps The Silhouette For A Bold, Distinctive Edge.",
+     "A Premium Suede Upper With Nubuck Details And Collegiate Color Blocking Brings A Refined, Heritage Feel And A Soft Synthetic Lining Combine Durability With All-day Comfort For Easy Wear.",
+     "A Rubber Outsole Provides Reliable Grip For City Streets. Finished With Classic Adidas Originals Details, They Deliver A Confident Blend Of Heritage Style And Modern Everyday Wear."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Footwear",
+    "Franchise: GAZELLE",
+    "Gender - Men",
+    "New Arrivals",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-gazelle-indoor-trace-brown-warm-vanilla-gum",
+   "cutout": "shoes/adid-0732a0fa/cutout.webp",
+   "cutoutAspect": 2.4082,
+   "images": [
+    "shoes/adid-0732a0fa/1.webp",
+    "shoes/adid-0732a0fa/2.webp",
+    "shoes/adid-0732a0fa/3.webp",
+    "shoes/adid-0732a0fa/4.webp",
+    "shoes/adid-0732a0fa/5.webp"
+   ]
+  },
+  {
+   "id": "jord-4093d087",
+   "brand": "Jordan",
+   "name": "Air Jordan Skyline Low",
+   "colorway": "Summit White/Particle Rose-Neutral Grey",
+   "gender": "Women",
+   "price": 8495,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": false
+    },
+    {
+     "label": "UK 6",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "A low-profile shoe inspired by classic Jordan style, the Skyline Low brings basketball heritage off the court for your everyday rotation. It's got the familiar details you know and love, like branding on the heel and a stitched Swoosh design, along with encapsulated Air in the heel and a durable mix of materials that go with any fit.",
+     "Leather and suede in the upper make for a durable and structured shoe.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "More Details"
+    ],
+    "bullets": [
+     "Rubber traction",
+     "Foam midsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "For Footwear",
+    "Franchise: AIR JORDAN SKYLINE LOW",
+    "Gender - Women",
+    "JORDAN-NIKE",
+    "Low Profile Sneakers",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-skyline-low-summit-white-particle-rose-neutral-grey",
+   "cutout": "shoes/jord-4093d087/cutout.webp",
+   "cutoutAspect": 2.0562,
+   "images": [
+    "shoes/jord-4093d087/1.webp",
+    "shoes/jord-4093d087/2.webp",
+    "shoes/jord-4093d087/3.webp",
+    "shoes/jord-4093d087/4.webp",
+    "shoes/jord-4093d087/5.webp"
+   ]
+  },
+  {
+   "id": "onit-6226e1c5",
+   "brand": "Onitsuka Tiger",
+   "name": "Gymnarina Dazzling Blue Cream",
+   "colorway": "",
+   "gender": "Unisex",
+   "price": 20999,
+   "mrp": 24500,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Onitsuka Tiger GYMNARINA Dazzling Blue Cream brings a bold yet elegant touch to a slim, fashion-forward sneaker silhouette. The dazzling blue upper gives the pair a bright and expressive look, while the soft cream detailing balances the color with a clean, refined finish. Inspired by a mix of sporty design and ballet-style shaping, the shoe carries a sleek low-profile structure that feels lightweight, graceful, and easy to style. The smooth paneling and curved design lines add movement to the upper, giving it a polished appearance without making it look too heavy. Cream accents highlight the signature Onitsuka Tiger details and create a fresh contrast against the vibrant blue base. Its slim sole keeps the overall look minimal and comfortable for everyday wear, making it suitable for casual outfits, denim, skirts, wide-leg trousers, relaxed co-ords, and statement streetwear looks. The GYMNARINA Dazzling Blue Cream is perfect for anyone who wants a sneaker that stands out through color but still feels clean, wearable, and refined. It combines sporty heritage, soft styling, and modern energy in one stylish pair."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-gymnarina-dazzling-blue-cream",
+   "cutout": "shoes/onit-6226e1c5/cutout.webp",
+   "cutoutAspect": 2.801,
+   "images": [
+    "shoes/onit-6226e1c5/1.webp"
+   ]
+  },
+  {
+   "id": "nike-0e78501a",
+   "brand": "Nike",
+   "name": "REJUVEN8",
+   "colorway": "Dk Field Brown/Bright Cactus",
+   "gender": "Women",
+   "price": 11895,
+   "mrp": 13995,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Just 'cause it's a recovery day doesn't mean you can't flex. This Rejuven8 Run comes with two removable booties for styling options. And those booties have their own thin rubber bottom so they can be worn without the upper. But if you do step into the upper, expect big comfort with its cushy foam and encapsulated Air.",
+     "Sticky rubber outsole adds grip even on slick surfaces.",
+     "Extra room at the forefoot helps accommodate various foot widths.",
+     "Ventilation holes help allow for breathability."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "abc-camp",
+    "Brand - Nike",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise : REJUVEN8",
+    "free-delivery",
+    "Gender - Women"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-rejuven8-dk-field-brown-bright-cactus",
+   "cutout": "shoes/nike-0e78501a/cutout.webp",
+   "cutoutAspect": 1.8373,
+   "images": [
+    "shoes/nike-0e78501a/1.webp",
+    "shoes/nike-0e78501a/2.webp",
+    "shoes/nike-0e78501a/3.webp",
+    "shoes/nike-0e78501a/4.webp",
+    "shoes/nike-0e78501a/5.webp"
+   ]
+  },
+  {
+   "id": "adid-09e9e3bc",
+   "brand": "adidas",
+   "name": "Naked X Adizero Evo SL Zip “Blush Pink”",
+   "colorway": "",
+   "gender": "Women",
+   "price": 13599,
+   "mrp": 15999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 10.5",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The adidas Performance x NAKED Copenhagen Women's Adizero Evo SL Zip is the perfect fusion of style and function, created for women who demand performance without sacrificing aesthetics. In collaboration with NAKED Copenhagen, these sneakers stand out with their innovative design and vibrant pink color, adding a fresh and modern touch to any athletic outfit. Made with rubber and textile materials, these sneakers not only offer exceptional comfort but also ensure long-lasting durability. The low-top, running-style design makes them an ideal choice for intense workouts and everyday activities, while their lightweight construction enhances performance with every movement."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "core_running",
+    "Diwalipush",
+    "Footwear",
+    "Franchise: ADIZERO EVO SL",
+    "Gender - Men",
+    "Gender - Women"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-naked-x-adizero-evo-sl-zip-blush-pink",
+   "cutout": "shoes/adid-09e9e3bc/cutout.webp",
+   "cutoutAspect": 2.0069,
+   "images": [
+    "shoes/adid-09e9e3bc/1.webp",
+    "shoes/adid-09e9e3bc/2.webp",
+    "shoes/adid-09e9e3bc/3.webp",
+    "shoes/adid-09e9e3bc/4.webp",
+    "shoes/adid-09e9e3bc/5.webp"
+   ]
+  },
+  {
+   "id": "jord-420ecbcb",
+   "brand": "Jordan",
+   "name": "Air Jordan 4 Retro “Comic”",
+   "colorway": "Off White/Fire Pink-Anthracite",
+   "gender": "Men",
+   "price": 21995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Like your favorite comic book superheroes, the AJ4 still reigns supreme. This edition pulls inspiration from comic book culture, lending an action-packed update to the iconic silhouette. Think of it as a variant cover to a key issue—vibrant multi-color and University Red accents pop against the Off White premium leather upper. Visible Nike Air cushioning softens every step of your main character journey. And that Nike Air heel logo? It's never been done before. This page-turner keeps the story going with twists and turns around every corner.",
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "Plush and comfortable, Max Air cushioning has just the right amount of support.",
+     "More Details"
+    ],
+    "bullets": [
+     "Leather and synthetic leather upper",
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Footwear",
+    "Franchise: AIR JORDAN 4",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
+   "cutout": "shoes/jord-420ecbcb/cutout.webp",
+   "cutoutAspect": 1.6474,
+   "images": [
+    "shoes/jord-420ecbcb/1.webp",
+    "shoes/jord-420ecbcb/2.webp",
+    "shoes/jord-420ecbcb/3.webp",
+    "shoes/jord-420ecbcb/4.webp",
+    "shoes/jord-420ecbcb/5.webp"
+   ]
+  },
+  {
+   "id": "onit-639c424c",
+   "brand": "Onitsuka Tiger",
+   "name": "Gymnarina Rose Gold Cream",
+   "colorway": "",
+   "gender": "Unisex",
+   "price": 18999,
+   "mrp": 28000,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Onitsuka Tiger GYMNARINA Rose Gold Cream brings a soft, elegant twist to a sporty low-profile silhouette, combining ballet-inspired styling with everyday sneaker comfort. The rose gold upper gives the pair a warm metallic finish that feels premium, stylish, and slightly playful, while the cream detailing balances the shine with a clean and versatile touch. Its slim shape creates a refined look on foot, making it different from heavier athletic sneakers and easy to pair with both casual and dressier outfits. The smooth paneling, delicate structure, and signature Onitsuka Tiger design lines give the shoe a polished appearance without making it feel overdone. The cream accents highlight the branding and shape in a subtle way, allowing the rose gold tone to remain the main focus. Its lightweight feel and flexible construction make it suitable for daily styling, whether worn with denim, skirts, wide-leg trousers, relaxed co-ords, or neutral streetwear looks. The GYMNARINA Rose Gold Cream is a strong option for anyone who wants a sneaker that feels feminine, modern, and comfortable while still carrying the sporty heritage and clean design language Onitsuka Tiger is known for."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-gymnarina-rose-gold-cream",
+   "cutout": "shoes/onit-639c424c/cutout.webp",
+   "cutoutAspect": 2.703,
+   "images": [
+    "shoes/onit-639c424c/1.webp"
+   ]
+  },
+  {
+   "id": "nike-0ea9ddf5",
+   "brand": "Nike",
+   "name": "Air Max 90 “Hypervenom”",
+   "colorway": "Bright Citrus/Total Orange/Black",
+   "gender": "Men",
+   "price": 12795,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "This Air Max 90 takes its cues from the original Hypervenom—an iconic boot that debuted in 2013 for players destined to shake defenders and own the spotlight. Seamlessly fusing the iconography and design lines from two legendary sneakers, this mashup is cast in colours and materials that closely resembles the original.",
+     "Mad 90 Pack",
+     "The Mad 90 Pack features four Air Max 90 designs inspired by classic Nike football boots. Each shoe connects with the communities that helped define its football legacy—from pitch to pavement.",
+     "Hypervenom Edition"
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "FOOTBALL2026",
+    "Footwear",
+    "For Footwear",
+    "Franchise: AIR MAX 90",
+    "free-delivery",
+    "Gender - Men",
+    "JORDAN-NIKE"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-max-90-hypervenom-bright-citrus-total-orange-black",
+   "cutout": "shoes/nike-0ea9ddf5/cutout.webp",
+   "cutoutAspect": 2.0414,
+   "images": [
+    "shoes/nike-0ea9ddf5/1.webp",
+    "shoes/nike-0ea9ddf5/2.webp",
+    "shoes/nike-0ea9ddf5/3.webp",
+    "shoes/nike-0ea9ddf5/4.webp",
+    "shoes/nike-0ea9ddf5/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0c907a95",
+   "brand": "adidas",
+   "name": "Bad Bunny X Adidas Badbo 1.0",
+   "colorway": "Grey Three/Cloud White/Orbit Grey",
+   "gender": "Men",
+   "price": 15999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Statement shoes with leather and textile upper for a bold, premium style.",
+     "The newest release from adidas Originals by Bad Bunny."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "collab room",
+    "Footwear",
+    "franchise - BADBO",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-original-bad-bunny-x-adidas-badbo-1-0-grey-three-cloud-white-orbit-grey",
+   "cutout": "shoes/adid-0c907a95/cutout.webp",
+   "cutoutAspect": 1.7476,
+   "images": [
+    "shoes/adid-0c907a95/1.webp",
+    "shoes/adid-0c907a95/2.webp",
+    "shoes/adid-0c907a95/3.webp",
+    "shoes/adid-0c907a95/4.webp",
+    "shoes/adid-0c907a95/5.webp"
+   ]
+  },
+  {
+   "id": "jord-588e2460",
+   "brand": "Jordan",
+   "name": "Sixty Plus Low",
+   "colorway": "University Blue/Obsidian/White",
+   "gender": "Men",
+   "price": 11470,
+   "mrp": 15295,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Sixty Plus is back in low-top form, combining the five classic Jordans that MJ wore during his five 60-plus point games. What you end up with is a sneaker that channels greatness through iconic details, celebrating the GOAT's legacy.",
+     "Benefits",
+     "Product Details"
+    ],
+    "bullets": [
+     "Real and synthetic leather in the upper helps add durability and structure.",
+     "Plush and comfortable, Max Air cushioning has just the right amount of support.",
+     "Rubber in the outsole helps give you durable traction.",
+     "Not intended for use as Personal Protective Equipment (PPE)"
+    ]
+   },
+   "tags": [
+    "Brand - Jordan",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise: SIXTY PLUS",
+    "free-delivery",
+    "Fresh Arrivals",
+    "Gender - Men"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-sixty-plus-low-university-blue-obsidian-white",
+   "cutout": "shoes/jord-588e2460/cutout.webp",
+   "cutoutAspect": 1.8361,
+   "images": [
+    "shoes/jord-588e2460/1.webp",
+    "shoes/jord-588e2460/2.webp",
+    "shoes/jord-588e2460/3.webp",
+    "shoes/jord-588e2460/4.webp",
+    "shoes/jord-588e2460/5.webp"
+   ]
+  },
+  {
+   "id": "onit-707e4cf3",
+   "brand": "Onitsuka Tiger",
+   "name": "Wmns Mexico 66 Tgrs “Triple Black”",
+   "colorway": "",
+   "gender": "Unisex",
+   "price": 21999,
+   "mrp": 30798,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Wmns Mexico 66 TGRS 'Triple Black' delivers timeless athletic heritage with a contemporary edge. This women's silhouette features the iconic Mexico 66 profile—a design that defined 1960s running culture—rendered entirely in sophisticated black tones. The TGRS construction ensures responsive cushioning and reliable support for all-day wear, whether you're navigating urban streets or casual settings. Premium materials and meticulous craftsmanship reflect Onitsuka Tiger's legacy of performance innovation. A versatile essential that bridges vintage aesthetics with modern comfort, this triple black iteration offers understated elegance that complements any wardrobe."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "KICKSTART2026",
+    "ONITSUKA",
+    "Onitsuka Tiger"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-wmns-mexico-66-tgrs-triple-black",
+   "cutout": "shoes/onit-707e4cf3/cutout.webp",
+   "cutoutAspect": 2.6723,
+   "images": [
+    "shoes/onit-707e4cf3/1.webp",
+    "shoes/onit-707e4cf3/2.webp",
+    "shoes/onit-707e4cf3/3.webp",
+    "shoes/onit-707e4cf3/4.webp"
+   ]
+  },
+  {
+   "id": "nike-1183e3ee",
+   "brand": "Nike",
+   "name": "SB Zoom Nyjah 4",
+   "colorway": "Cool Grey/White-Wolf Grey-Cool Grey",
+   "gender": "Men",
+   "price": 9695,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Nyjah delivers again. The Nyjah 4 still prioritizes a flexible fit, strong grip and responsive cushioning. Stepping away from its predecessor, this design features a classic tongue structure and an updated traction pattern that feels like a Nyjah signature.",
+     "Reinforced mesh in the upper allows breathability.",
+     "Air Zoom cushioning helps provide a quick-off-the-ground sensation.",
+     "Durable plastic clip helps improve heel containment."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: NIKE others",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-nike-sb-zoom-nyjah-4-cool-grey-white-wolf-grey-cool-grey",
+   "cutout": "shoes/nike-1183e3ee/cutout.webp",
+   "cutoutAspect": 2.0566,
+   "images": [
+    "shoes/nike-1183e3ee/1.webp",
+    "shoes/nike-1183e3ee/2.webp",
+    "shoes/nike-1183e3ee/3.webp",
+    "shoes/nike-1183e3ee/4.webp",
+    "shoes/nike-1183e3ee/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0eaf2716",
+   "brand": "adidas",
+   "name": "Samba OG",
+   "colorway": "Core Black/Cloud White/Gum",
+   "gender": "Women",
+   "price": 10999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "SAMBA ORIGINALS",
+     "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "3Days Fast shipping",
+    "abc-camp",
+    "adidas t-toe",
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "FLAT25BESTSELLER"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/samba-og-core-black-cloud-white-gum-shoes-for-men",
+   "cutout": "shoes/adid-0eaf2716/cutout.webp",
+   "cutoutAspect": 2.2424,
+   "images": [
+    "shoes/adid-0eaf2716/1.webp",
+    "shoes/adid-0eaf2716/2.webp",
+    "shoes/adid-0eaf2716/3.webp",
+    "shoes/adid-0eaf2716/4.webp",
+    "shoes/adid-0eaf2716/5.webp"
+   ]
+  },
+  {
+   "id": "jord-694dc4a5",
+   "brand": "Jordan",
+   "name": "Flight Court",
+   "colorway": "White/Vintage Lichen-Swan-Jade Stone",
+   "gender": "Men",
+   "price": 6520,
+   "mrp": 8695,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Inspired by the past, built for tomorrow. We remixed elements from the AJ3, AJ4 and AJ5 to create a fresh take on the classics. Smooth leather and soft suede give you style and durability while textile panels add breathability. Plus, embroidered details infuse these kicks with Jordan heritage.",
+     "Real and synthetic leather in the upper add durability and support",
+     "Foam midsole gives you lightweight cushioning.",
+     "Double top eyelet enables heel lock lacing."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "abc-camp",
+    "Brand - Jordan",
+    "Footwear",
+    "For Footwear",
+    "Franchise: FLIGHT COURT",
+    "free-delivery",
+    "Gender - Men",
+    "Hype"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/jordan-flight-court-white-vintage-lichen-swan-jade-stone",
+   "cutout": "shoes/jord-694dc4a5/cutout.webp",
+   "cutoutAspect": 2.0916,
+   "images": [
+    "shoes/jord-694dc4a5/1.webp",
+    "shoes/jord-694dc4a5/2.webp",
+    "shoes/jord-694dc4a5/3.webp",
+    "shoes/jord-694dc4a5/4.webp",
+    "shoes/jord-694dc4a5/5.webp"
+   ]
+  },
+  {
+   "id": "onit-75956f21",
+   "brand": "Onitsuka Tiger",
+   "name": "Mexico 66 SD",
+   "colorway": "Cream White",
+   "gender": "Unisex",
+   "price": 20299,
+   "mrp": 36119,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 8.5",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 9.5",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 10.5",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Onitsuka Tiger Mexico 66 SD 'Cream White' updates the timeless silhouette with premium materials and enhanced cushioning. Dressed in soft cream tones with subtle white accents, it delivers a refined, versatile look while maintaining the retro charm of the original design.",
+     "If you vibe with iconic design but want your kicks on a more elevated wavelength, the Onitsuka Tiger Mexico 66 SD ‘Cream White’ mixes heritage with pure comfort. Crafted from a sumptuously smooth kidskin leather upper, those legendary Tiger Stripes hug the creamy silhouette just right. The slightly thicker, modern sole isn’t just for show - it’s packed with tech that cradles your stride. Whether you’re sliding into your day’s plans or just flexing something timeless, these sneakers are built for comfort, sophistication, and a little extra “wow” every time you lace up.",
+     "Premium Kidskin Leather Upper",
+     "The upper is crafted from soft, high-quality kidskin leather, creating a refined tactile feel and luxurious aesthetic. It’s not only gentle on your feet, but the elegant finish brings timeless style to your everyday moves. This premium material showcases Onitsuka Tiger’s attention to detail for sneakerheads who appreciate craftsmanship."
+    ],
+    "bullets": [
+     "ETA Shipping – approx. 18–20 days"
+    ]
+   },
+   "tags": [
+    "All Sneakers",
+    "Lifestyle",
+    "Low Tops",
+    "Onitsuka Tiger",
+    "Onitsuka Tiger Mexico 66"
+   ],
+   "source": "dawntown.co.in",
+   "sourceUrl": "https://www.dawntown.co.in/products/onitsuka-tiger-mexico-66-sd-cream-white",
+   "cutout": "shoes/onit-75956f21/cutout.webp",
+   "cutoutAspect": 2.8098,
+   "images": [
+    "shoes/onit-75956f21/1.webp",
+    "shoes/onit-75956f21/2.webp",
+    "shoes/onit-75956f21/3.webp",
+    "shoes/onit-75956f21/4.webp",
+    "shoes/onit-75956f21/5.webp"
+   ]
+  },
+  {
+   "id": "nike-13fa6cc0",
+   "brand": "Nike",
+   "name": "Dunk Low Retro Premium",
+   "colorway": "Anthracite/Anthracite-Black-Iron Grey",
+   "gender": "Women",
+   "price": 10795,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "You can always count on a classic. The Dunk Low pairs embossed suede with textiles for game-changing comfort that lasts. The possibilities are endless—how will you wear your Dunks?",
+     "Upper softens and gains vintage character with wear.",
+     "Foam midsole offers lightweight, responsive cushioning.",
+     "Rubber outsole with classic pivot circle adds durable traction and heritage style."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "abc-camp",
+    "Brand - Nike",
+    "FLAT25BESTSELLER",
+    "Footwear",
+    "For Footwear",
+    "Franchise: DUNK",
+    "free-delivery",
+    "Gender - Men"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-dunk-low-retro-premium-anthracite-anthracite-black-iron-grey",
+   "cutout": "shoes/nike-13fa6cc0/cutout.webp",
+   "cutoutAspect": 2.0259,
+   "images": [
+    "shoes/nike-13fa6cc0/1.webp",
+    "shoes/nike-13fa6cc0/2.webp",
+    "shoes/nike-13fa6cc0/3.webp",
+    "shoes/nike-13fa6cc0/4.webp",
+    "shoes/nike-13fa6cc0/5.webp"
+   ]
+  },
+  {
+   "id": "adid-0f40a06f",
+   "brand": "adidas",
+   "name": "Handball Spezial",
+   "colorway": "Core Black/Core White/Green",
+   "gender": "Men",
+   "price": 7697,
+   "mrp": 13999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Soccer-inspired refresh for a vintage design classic.",
+     "First released in the 70s as a pro indoor sports shoe, today's Handball Spezial Shoes are a timeless T-toe classic. This latest iteration, inspired by retro soccer jerseys, debuts a bold mix of colors, textures and graphics. These shoes pay homage to soccer shirts of old, mixing vivid color blocks with creative use of graphics. With a textile graphic quarter with suede and leather overlays, a graphic sockliner and soft leather lining, this shoe is all about texture and pattern. The adidas Spezial branding on the quarter, heel and tongue gives a nod to the history that molded this shoe. For a vintage terrace vibe with unique design details, look no further than this time-honored favorite."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "adidas t-toe",
+    "ADIDAS&OG",
+    "affiliate_5",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "FIRSTTIMEONDISC",
+    "Footwear",
+    "For Footwear"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-handball-spezial-core-black-core-white-green",
+   "cutout": "shoes/adid-0f40a06f/cutout.webp",
+   "cutoutAspect": 2.3373,
+   "images": [
+    "shoes/adid-0f40a06f/1.webp",
+    "shoes/adid-0f40a06f/2.webp",
+    "shoes/adid-0f40a06f/3.webp",
+    "shoes/adid-0f40a06f/4.webp",
+    "shoes/adid-0f40a06f/5.webp"
+   ]
+  },
+  {
+   "id": "nike-16b397d5",
+   "brand": "Nike",
+   "name": "Air Max Tl 2.5 Premium",
+   "colorway": "University Red/University Red-Black",
+   "gender": "Men",
+   "price": 17495,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Reviving a late '90s fave, the Air Max TL 2.5 brings back the iconic wavy Air Max aesthetic. Airy textiles fuse with smooth leather for a clean finish, while full-length Max Air cushioning brings a bouncy feel to every step.",
+     "Upper combines textiles and leather for breathability and durability.",
+     "Plush and comfortable, the Max Air cushioning has just the right amount of support.",
+     "Rubber outsole provides durable traction."
+    ],
+    "bullets": [
+     "Padded collar",
+     "Foam midsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "For Footwear",
+    "Franchise:  AIR MAX TL 2.5 PREMIUM",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "Newadss"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-max-tl-2-5-premium-university-red-university-red-black",
+   "cutout": "shoes/nike-16b397d5/cutout.webp",
+   "cutoutAspect": 1.9783,
+   "images": [
+    "shoes/nike-16b397d5/1.webp",
+    "shoes/nike-16b397d5/2.webp",
+    "shoes/nike-16b397d5/3.webp",
+    "shoes/nike-16b397d5/4.webp",
+    "shoes/nike-16b397d5/5.webp"
+   ]
+  },
+  {
+   "id": "adid-10bb3da5",
+   "brand": "adidas",
+   "name": "Samba Jane",
+   "colorway": "Brown/Cream White/Gum",
+   "gender": "Women",
+   "price": 9999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": true
+    },
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Timeless Adidas Heritage Meets Contemporary Street Style With The Samba Jane Shoes. Inspired By The Classic Samba, This Model Is Reimagined As A Mary Jane Silhouette With An Open, Slip-on Construction For Endless Styling Possibilities.",
+     "The Satin Upper Delivers A Sleek, Sophisticated Look, Complemented By Premium Leather Stripes And Floral Embellishments For A Touch Of Playful Elegance. Serrated 3-stripes And Samba Branding On The Lateral Side Celebrate Adidas’ Iconic Design Language.",
+     "A Lace Closure Offers A Secure Fit, While The Rubber Outsole Promotes Reliable Traction For City Adventures. Whether You’re Heading Out For A Day With Friends Or Elevating Your Everyday Wardrobe, These Shoes Bring Empowering Confidence To Your Stride."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Footwear",
+    "Franchise: SAMBA JANE",
+    "Gender - Women",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-samba-jane-brown-cream-white-gum",
+   "cutout": "shoes/adid-10bb3da5/cutout.webp",
+   "cutoutAspect": 2.3695,
+   "images": [
+    "shoes/adid-10bb3da5/1.webp",
+    "shoes/adid-10bb3da5/2.webp",
+    "shoes/adid-10bb3da5/3.webp",
+    "shoes/adid-10bb3da5/4.webp",
+    "shoes/adid-10bb3da5/5.webp"
+   ]
+  },
+  {
+   "id": "nike-16c06938",
+   "brand": "Nike",
+   "name": "Air Max Ecstasy Plus",
+   "colorway": "Black/Black-Black",
+   "gender": "Men",
+   "price": 15995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Nike Air technology absorbs impact for cushioning with every step.",
+     "More Details"
+    ],
+    "bullets": [
+     "Low-cut collar"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: Air max others",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-black-black-black",
+   "cutout": "shoes/nike-16c06938/cutout.webp",
+   "cutoutAspect": 2.0148,
+   "images": [
+    "shoes/nike-16c06938/1.webp",
+    "shoes/nike-16c06938/2.webp",
+    "shoes/nike-16c06938/3.webp",
+    "shoes/nike-16c06938/4.webp",
+    "shoes/nike-16c06938/5.webp"
+   ]
+  },
+  {
+   "id": "adid-15c6d587",
+   "brand": "adidas",
+   "name": "Megaride F50",
+   "colorway": "Core Black/Lucid Aquamarine/Core Black",
+   "gender": "Men",
+   "price": 13499,
+   "mrp": 17999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Lifestyle shoes with an eye-catching F50 Spider stability cage.",
+     "The Megaride F50 Shoes are a bold fusion of iconic soccer heritage and innovative running technology. The upper features the legendary F50 Spider stability cage structure, providing a secure fit and eye-catching design. Crafted with a lace closure and padded tongue and collar, these shoes provide a comfortable fit for everyday wear. The mesh upper offers breathability and the tooling boasts dual-injection TPU for stability and cushioning. Inspired by the F50+ soccer shoe and the Ambition PB shoe, these shoes have a distinctive look. Whether you're hitting the sidewalk or making a style statement, they are designed to keep you moving forward with confidence.",
+     "DETAILS:"
+    ],
+    "bullets": [
+     "Regular fit",
+     "Laces",
+     "Textile upper",
+     "Textile sockliner",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "adidas t-toe",
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise : MEGARIDE F50",
+    "free-delivery"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-megaride-f50-core-black-lucid-aquamarine-core-black",
+   "cutout": "shoes/adid-15c6d587/cutout.webp",
+   "cutoutAspect": 2.1056,
+   "images": [
+    "shoes/adid-15c6d587/1.webp",
+    "shoes/adid-15c6d587/2.webp",
+    "shoes/adid-15c6d587/3.webp",
+    "shoes/adid-15c6d587/4.webp",
+    "shoes/adid-15c6d587/5.webp"
+   ]
+  },
+  {
+   "id": "nike-17ce45dd",
+   "brand": "Nike",
+   "name": "Zoom Vomero 5 SE",
+   "colorway": "Newsprint/Iron Grey-Total Orange-Black",
+   "gender": "Men",
+   "price": 14995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Vomero 5 takes early 2000s running to modern heights. A combination of breathable and durable materials stands ready for the rigors of your day, while Zoom Air cushioning delivers a smooth ride.",
+     "Synthetic leather on the upper adds durability.",
+     "Mesh panels and ventilation ports on the heel keep it light and breathable.",
+     "Zoom Air cushioning helps provide a quick-off-the-ground sensation."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: VOMERO 5",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-zoom-vomero-5-se-newsprint-iron-grey-total-orange-black",
+   "cutout": "shoes/nike-17ce45dd/cutout.webp",
+   "cutoutAspect": 1.9429,
+   "images": [
+    "shoes/nike-17ce45dd/1.webp",
+    "shoes/nike-17ce45dd/2.webp",
+    "shoes/nike-17ce45dd/3.webp",
+    "shoes/nike-17ce45dd/4.webp"
+   ]
+  },
+  {
+   "id": "adid-1928d864",
+   "brand": "adidas",
+   "name": "Elite Mei Miaou Slip On",
+   "colorway": "Silver Metallic/Navy/Hazy Yellow",
+   "gender": "Women",
+   "price": 6499,
+   "mrp": 12999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Futuristic flair meets retro sport in Mei Miao’s metallic statement shoes.",
+     "These adidas Elite Mei Miao Slip-On Shoes blend futuristic couture with retro sport heritage perfectly. The overall silhouette bridges high-fashion innovation and athletic nostalgia. Sheen metallic silver finish and quilted accents, along with yellow hues, reflect bold street expression."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "2DAYS10%",
+    "ADIDAS&OG",
+    "affiliate_5",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Footwear",
+    "For Footwear",
+    "Franchise: Adidas Others"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-elite-mei-miaou-slip-on-silver-metallic-navy-hazy-yellow",
+   "cutout": "shoes/adid-1928d864/cutout.webp",
+   "cutoutAspect": 1.9397,
+   "images": [
+    "shoes/adid-1928d864/1.webp",
+    "shoes/adid-1928d864/2.webp",
+    "shoes/adid-1928d864/3.webp",
+    "shoes/adid-1928d864/4.webp",
+    "shoes/adid-1928d864/5.webp"
+   ]
+  },
+  {
+   "id": "nike-1dd0d2f1",
+   "brand": "Nike",
+   "name": "Air Max Dolce",
+   "colorway": "Black/Sport Red-Black",
+   "gender": "Women",
+   "price": 14995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3",
+     "available": false
+    },
+    {
+     "label": "UK 4",
+     "available": false
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": false
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "From running to the red carpet, the Air Max Dolce has lived a life. Now it's back, ready for whatever's next. The details that make the Dolce a standout member of the Air Max family remain, from the laceless, molded upper with its overlay cage to the visible Air in the heel that gives the shoe its distinct shape. Go-to, casual slip on or dressed up elegance, that's for you to decide.",
+     "Plush and comfortable, Max Air cushioning has just the right amount of support.",
+     "Foam midsole add cushioning with every step."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: Air Max Dolce",
+    "Gender - Women",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-max-dolce-black-sport-red-black",
+   "cutout": "shoes/nike-1dd0d2f1/cutout.webp",
+   "cutoutAspect": 1.8503,
+   "images": [
+    "shoes/nike-1dd0d2f1/1.webp",
+    "shoes/nike-1dd0d2f1/2.webp",
+    "shoes/nike-1dd0d2f1/3.webp"
+   ]
+  },
+  {
+   "id": "adid-1c25515d",
+   "brand": "adidas",
+   "name": "Megaride S2 M",
+   "colorway": "Core Black/Core Black/Semi Solar Yellow",
+   "gender": "Men",
+   "price": 11249,
+   "mrp": 14999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": false
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Streetwear shoes with a stable outsole for reliable traction.",
+     "The Megaride S2 Shoes are designed for street use. They feature an upper that provides structure and protection, a lining that adds softness and an outsole built for reliable traction. A lace closure lets you adjust the fit for a secure feel. The midsole adds cushioning for steady comfort through daily movement. Each component works together to support a stable feel and durable build. 3-Stripes branding and a Badge of Sport logo details complete the design. These shoes feature adidas identity in a simple construction made for street wear.",
+     "DETAILS:"
+    ],
+    "bullets": [
+     "Regular fit",
+     "Lace closure",
+     "Synthetic upper",
+     "Textile lining",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "adidas t-toe",
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise : MEGARIDE S2 M"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-megaride-s2-m-core-black-core-black-semi-solar-yellow",
+   "cutout": "shoes/adid-1c25515d/cutout.webp",
+   "cutoutAspect": 1.8994,
+   "images": [
+    "shoes/adid-1c25515d/1.webp",
+    "shoes/adid-1c25515d/2.webp",
+    "shoes/adid-1c25515d/3.webp",
+    "shoes/adid-1c25515d/4.webp",
+    "shoes/adid-1c25515d/5.webp"
+   ]
+  },
+  {
+   "id": "nike-23820188",
+   "brand": "Nike",
+   "name": "Moon Shoe OG",
+   "colorway": "Anthracite/Black-Anthracite",
+   "gender": "Men",
+   "price": 8995,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs with a waffle sole to recreate the '70s runner style. Step through history with the shoe that started it all.",
+     "Nylon and leather upper gives you a distinct, textured look Rubber Waffle outsole gives you durable traction and heritage style."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: MOON OG",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-moon-shoe-og-anthracite-black-anthracite",
+   "cutout": "shoes/nike-23820188/cutout.webp",
+   "cutoutAspect": 2.6488,
+   "images": [
+    "shoes/nike-23820188/1.webp",
+    "shoes/nike-23820188/2.webp",
+    "shoes/nike-23820188/3.webp",
+    "shoes/nike-23820188/4.webp",
+    "shoes/nike-23820188/5.webp"
+   ]
+  },
+  {
+   "id": "adid-1e106dec",
+   "brand": "adidas",
+   "name": "Pokémon X Megaride F50 “Pikachu”",
+   "colorway": "Cblack/Carbon/Ftwwht",
+   "gender": "Men",
+   "price": 19999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The adidas Megaride F50 x Pokémon brings football DNA into a futuristic lifestyle silhouette. The iconic F50, it pairs a sculpted Megaride sole with a structured F50-inspired cage for a distinctly technical look.",
+     "A layered upper keeps the profile sleek, while the open-ring cushioning system adds a statement underfoot. Finished in Core Black with subtle adidas detailing, this is a crossover of pitch heritage, performance design and Pokémon energy."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Footwear",
+    "Franchise : MEGARIDE F50",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-pokemon-x-megaride-f50-pikachu-cblack-carbon-ftwwht",
+   "cutout": "shoes/adid-1e106dec/cutout.webp",
+   "cutoutAspect": 2.0646,
+   "images": [
+    "shoes/adid-1e106dec/1.webp",
+    "shoes/adid-1e106dec/2.webp",
+    "shoes/adid-1e106dec/3.webp",
+    "shoes/adid-1e106dec/4.webp",
+    "shoes/adid-1e106dec/5.webp"
+   ]
+  },
+  {
+   "id": "nike-24bb3665",
+   "brand": "Nike",
+   "name": "Air Liquid Max",
+   "colorway": "Black/Chrome-Monarch Purple-Hyper Grape",
+   "gender": "Men",
+   "price": 19695,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The Air Liquid Max wasn't made to convince you. It was made to innovate. Do you like it, or not? Either way, it's one of the most comfortable Air Max shoes to date. Every step feels fluid and smooth thanks to the drop-in Cushlon Midsole stacked on top of the point-loaded Air system. If you do try it, you just might like it.",
+     "Cushlon foam and Nike Air combination gives you comfort all day.",
+     "Low-profile upper, made of textured mesh, creates a secure fit that moves with you"
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: AIR MAX",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-liquid-max-black-chrome-monarch-purple-hyper-grape",
+   "cutout": "shoes/nike-24bb3665/cutout.webp",
+   "cutoutAspect": 2.0606,
+   "images": [
+    "shoes/nike-24bb3665/1.webp",
+    "shoes/nike-24bb3665/2.webp",
+    "shoes/nike-24bb3665/3.webp",
+    "shoes/nike-24bb3665/4.webp",
+    "shoes/nike-24bb3665/5.webp"
+   ]
+  },
+  {
+   "id": "adid-1f6ee181",
+   "brand": "adidas",
+   "name": "SL 72 OG",
+   "colorway": "Off White/Core Black/Gum",
+   "gender": "Women",
+   "price": 6599,
+   "mrp": 10999,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": false
+    },
+    {
+     "label": "UK 5",
+     "available": false
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    },
+    {
+     "label": "UK 7",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "A metallic remake of archival adidas shoes.",
+     "The adidas SL72 sneakers first hit the ground running in 1972 and have been making history ever since. The \"SL\" stands for Super Lightweight, a pioneering concept that pushed the boundaries of what was possible in footwear. This reimagined pair takes the revolutionary spirit of the original and infuses it with modern style. The metallic leather upper is accented with classic leather 3-Stripes and a heel tab that nod to the brand's sport heritage. An EVA midsole and rubber outsole add a contemporary twist."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "ADIDAS&OG",
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Diwalipush",
+    "Footwear",
+    "For Footwear",
+    "Franchise: SL 72",
+    "free-delivery"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-sl-72-og-off-white-core-black-gum",
+   "cutout": "shoes/adid-1f6ee181/cutout.webp",
+   "cutoutAspect": 2.2331,
+   "images": [
+    "shoes/adid-1f6ee181/1.webp",
+    "shoes/adid-1f6ee181/2.webp",
+    "shoes/adid-1f6ee181/3.webp",
+    "shoes/adid-1f6ee181/4.webp",
+    "shoes/adid-1f6ee181/5.webp"
+   ]
+  },
+  {
+   "id": "nike-262fb57c",
+   "brand": "Nike",
+   "name": "Sprint Sister",
+   "colorway": "Cacao Wow/Sail",
+   "gender": "Women",
+   "price": 7645,
+   "mrp": 8995,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 4",
+     "available": true
+    },
+    {
+     "label": "UK 5",
+     "available": true
+    },
+    {
+     "label": "UK 6",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Inspired by Nike's 1979 women's-only track spike, the Sprint Sister returns—reimagined for the street—delivering comfort and flexibility in a polished package.",
+     "Leather and textile upper is durable and breathable.",
+     "Low-cut silhouette provides a nonrestrictive fit.",
+     "More Details"
+    ],
+    "bullets": [
+     "Foam midsole",
+     "Rubber outsole"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise : Sprint Sister",
+    "Gender - Women",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26",
+    "Sneakers"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-sprint-sister-cacao-wow-sail",
+   "cutout": "shoes/nike-262fb57c/cutout.webp",
+   "cutoutAspect": 2.2336,
+   "images": [
+    "shoes/nike-262fb57c/1.webp",
+    "shoes/nike-262fb57c/2.webp",
+    "shoes/nike-262fb57c/3.webp",
+    "shoes/nike-262fb57c/4.webp",
+    "shoes/nike-262fb57c/5.webp"
+   ]
+  },
+  {
+   "id": "adid-235db332",
+   "brand": "adidas",
+   "name": "Crazy Energy",
+   "colorway": "Cblack/Cblack/Impora",
+   "gender": "Men",
+   "price": 10999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    },
+    {
+     "label": "UK 12",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The adidas Crazy Energy trainer brings a breath of fresh air to your basketball game and your street style. With its dynamic design and low-top silhouette, you’ll be ready to shine both on the court and around town.The synthetic upper ensures a lightweight and flexible fit that gives you complete freedom of movement. The standard lacing keeps your foot securely in place, whilst the Crazy Energy technology gives you that extra boost for explosive moves. Whether you’re dunking or chilling with your mates, this shoe is your trusty companion. Get the adidas Crazy Energy trainers and experience how performance and style complement each other perfectly. Click ‘Add to basket’ now and take your basketball and streetwear collection to the next level."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Basketball Sneakers",
+    "Brand - Adidas",
+    "Footwear",
+    "Franchise - Crazy Energy",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-crazy-energy-cblack-cblack-impora",
+   "cutout": "shoes/adid-235db332/cutout.webp",
+   "cutoutAspect": 1.7256,
+   "images": [
+    "shoes/adid-235db332/1.webp",
+    "shoes/adid-235db332/2.webp",
+    "shoes/adid-235db332/3.webp",
+    "shoes/adid-235db332/4.webp",
+    "shoes/adid-235db332/5.webp"
+   ]
+  },
+  {
+   "id": "nike-27303d5c",
+   "brand": "Nike",
+   "name": "Vomero 18",
+   "colorway": "Hydrogen Blue/Laser Orange/Total Orange/Black",
+   "gender": "Men",
+   "price": 11299,
+   "mrp": 13295,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": false
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "Double-stacked foam delivers our softest, most cushioned ride.",
+     "Maximum cushioning in the Vomero provides a comfortable ride for everyday runs. Our softest, most cushioned ride has lightweight ZoomX foam stacked on top of responsive ReactX foam in the midsole. Plus, a redesigned traction pattern offers a smooth heel-to-toe transition.",
+     "Engineered mesh upper",
+     "The upper is made from engineered mesh for soft breathability."
+    ],
+    "bullets": [
+     "MR-10 Last—Our best, most consistent fit",
+     "Reflective design details",
+     "Not intended for use as personal protective equipment (PPE)"
+    ]
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "For Footwear",
+    "Franchise: VOMERO 18",
+    "free-delivery",
+    "Gender - Men",
+    "JORDAN-NIKE",
+    "New Arrivals"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-vomero-18-hydrogen-blue-laser-orange-total-orange-black",
+   "cutout": "shoes/nike-27303d5c/cutout.webp",
+   "cutoutAspect": 2.0,
+   "images": [
+    "shoes/nike-27303d5c/1.webp",
+    "shoes/nike-27303d5c/2.webp",
+    "shoes/nike-27303d5c/3.webp",
+    "shoes/nike-27303d5c/4.webp",
+    "shoes/nike-27303d5c/5.webp"
+   ]
+  },
+  {
+   "id": "adid-26a804ff",
+   "brand": "adidas",
+   "name": "Wales Bonner Adizero Adios Suede",
+   "colorway": "Wonder White/Dark Brown/Chalk White",
+   "gender": "Men",
+   "price": 19999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": true
+    },
+    {
+     "label": "UK 10",
+     "available": false
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The WB Adizero Adios Suede shoes, from the Wales Bonner collaboration, bring together classic adidas heritage and contemporary design. With a regular fit, these shoes are crafted for everyday comfort and effortless wear, blending bold aesthetics with practical features. The leather upper delivers a premium look and feel, promoting durability and flexibility that adapts to your movements. A textile lining provides a soft touch for comfort and the rubber outsole grounds each step with reliable traction, making these shoes as functional as they are stylish. adidas Originals and Wales Bonner unite to empower your stride, offering a shoe that celebrates individuality and confidence. Designed for those who value style and substance, let adidas help you make a statement wherever you go."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "collab room",
+    "Footwear",
+    "Franchise: ADIZERO",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-wales-bonner-adizero-adios-suede-wonder-white-dark-brown-chalk-white",
+   "cutout": "shoes/adid-26a804ff/cutout.webp",
+   "cutoutAspect": 2.0763,
+   "images": [
+    "shoes/adid-26a804ff/1.webp",
+    "shoes/adid-26a804ff/2.webp",
+    "shoes/adid-26a804ff/3.webp",
+    "shoes/adid-26a804ff/4.webp",
+    "shoes/adid-26a804ff/5.webp"
+   ]
+  },
+  {
+   "id": "nike-2827bc65",
+   "brand": "Nike",
+   "name": "Air Rift",
+   "colorway": "Wolf Grey/Wolf Grey-Pure Platinum",
+   "gender": "Women",
+   "price": 11895,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 3.5",
+     "available": true
+    },
+    {
+     "label": "UK 4.5",
+     "available": true
+    },
+    {
+     "label": "UK 5.5",
+     "available": true
+    },
+    {
+     "label": "UK 6.5",
+     "available": true
+    },
+    {
+     "label": "UK 7.5",
+     "available": false
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "When you want to be barefoot but you need a shoe, go with the Air Rift. Adjustable straps let you easily slide in and customize the fit. The split-toe design, based on the '96 original, helps your feet feel like they're wearing nothing at all. Nike Air cushioning and a rubber sole provide comfort and traction wherever you go.",
+     "Leather upper is smooth and durable.",
+     "Hook-and-loop straps at the midfoot and heel give you a personalized fit.",
+     "Nike Air unit in the heel combines with plush foam for a soft feel."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Nike",
+    "Footwear",
+    "Franchise: AIR RIFT",
+    "Gender - Women",
+    "JORDAN-NIKE",
+    "New Arrivals",
+    "Newadss",
+    "NO-COD"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/nike-air-rift-wolf-grey-wolf-grey-pure-platinum",
+   "cutout": "shoes/nike-2827bc65/cutout.webp",
+   "cutoutAspect": 2.208,
+   "images": [
+    "shoes/nike-2827bc65/1.webp",
+    "shoes/nike-2827bc65/2.webp",
+    "shoes/nike-2827bc65/3.webp",
+    "shoes/nike-2827bc65/4.webp",
+    "shoes/nike-2827bc65/5.webp"
+   ]
+  },
+  {
+   "id": "adid-2db30674",
+   "brand": "adidas",
+   "name": "ADI2000",
+   "colorway": "Earth Strata / Cloud White / Magic Beige",
+   "gender": "Men",
+   "price": 10999,
+   "mrp": null,
+   "currency": "INR",
+   "sizes": [
+    {
+     "label": "UK 7",
+     "available": true
+    },
+    {
+     "label": "UK 8",
+     "available": true
+    },
+    {
+     "label": "UK 9",
+     "available": false
+    },
+    {
+     "label": "UK 10",
+     "available": true
+    },
+    {
+     "label": "UK 11",
+     "available": true
+    }
+   ],
+   "description": {
+    "paragraphs": [
+     "The adi2000 Shoes bring back the early 2000s look in a way that fits into everyday wear. They're made using a mix of leather and suede, which makes them feel strong and look good at the same time. You'll notice the classic Trefoil logo and a reversed 3-Stripes design on the shoe, small details that remind you of that era. There's also extra stripe detailing on the heel, and the font used on the branding has an old school feel to it. All in all, this adidas shoe brings together a retro look with a style that still works well today."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Brand - Adidas",
+    "Brand - Adidas Originals",
+    "Footwear",
+    "Franchise: Adi2000",
+    "Gender - Men",
+    "New Arrivals",
+    "NO-COD",
+    "Season: FW26"
+   ],
+   "source": "superkicks.in",
+   "sourceUrl": "https://www.superkicks.in/products/adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
+   "cutout": "shoes/adid-2db30674/cutout.webp",
+   "cutoutAspect": 1.9767,
+   "images": [
+    "shoes/adid-2db30674/1.webp",
+    "shoes/adid-2db30674/2.webp",
+    "shoes/adid-2db30674/3.webp",
+    "shoes/adid-2db30674/4.webp",
+    "shoes/adid-2db30674/5.webp"
+   ]
+  }
+ ]
+}
