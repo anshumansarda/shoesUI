@@ -34,7 +34,7 @@ st.markdown(
         padding: 0 !important; margin: 0 !important; max-width: 100% !important;
       }
       [data-testid="stVerticalBlock"] { gap: 0 !important; }
-      iframe { position: fixed; inset: 0; width: 100vw !important; height: 100vh !important; border: 0; }
+      iframe { position: fixed; inset: 0; width: 100vw !important; height: 100vh !important; height: 100dvh !important; border: 0; }
     </style>
     """,
     unsafe_allow_html=True,

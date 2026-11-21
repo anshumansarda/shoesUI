@@ -439,3 +439,42 @@ body.on-product .wordmark { opacity: 0; }
   .buybar .btn { padding: 11px 18px; font-size: 14px; white-space: nowrap; }
   .tag { display: none; }
 }
+
+/* ---------------------------------------------------------------- phone "wall" view */
+.caption { display: none; }
+body.wall-mode .hint { display: none; }
+body.wall-mode .caption {
+  display: block;
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: calc(76px + env(safe-area-inset-bottom));
+  z-index: 5;
+  text-align: center;
+  pointer-events: none;
+  transition: opacity 0.3s var(--ease);
+}
+body.on-product .caption { opacity: 0; }
+.caption__kicker {
+  font-size: 10.5px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.caption__title {
+  font-family: var(--serif);
+  font-size: 30px;
+  line-height: 1.05;
+  margin: 8px auto 6px;
+  max-width: 320px;
+  text-wrap: balance;
+}
+.caption__sub { font-size: 13.5px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.caption__how { margin-top: 18px; font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-3); }
+.caption.is-in .caption__title, .caption.is-in .caption__sub { animation: capIn 0.5s var(--ease); }
+@keyframes capIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+@media (max-width: 860px) {
+  .product__bar { background: var(--paper); box-shadow: 0 1px 0 var(--line); height: 60px; }
+  .gallery { padding-top: 12px; }
+}

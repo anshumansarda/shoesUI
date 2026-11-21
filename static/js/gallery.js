@@ -12,7 +12,7 @@ const R_IN = 26.6;         // inner wall radius (on your right)
 const R_OUT = 33.4;        // outer wall radius (on your left)
 const H = 4.8;             // ceiling height
 const EYE = 1.6;
-const RACKS_PER_SIDE = 26; // 52 racks x 6 pairs = 312 slots around the loop
+const RACKS_PER_SIDE = 34; // 68 racks x 6 pairs; each wall carries the whole catalogue
 const RACK_W = 3.3;
 const RACK_D = 0.42;
 const SHELVES = [0.42, 1.18, 1.94]; // shelf top heights
@@ -69,6 +69,7 @@ Shop.gallery = {
   resume() {
     if (!paused) return;
     paused = false;
+    lastInput = lastAdvance = performance.now(); // come back to the same rack you left
     clock.getDelta();
     if (started) loop();
   },
@@ -279,14 +280,18 @@ function placeRacks(products, textures) {
     group.rotation.y = Math.atan2(n.x, n.z);
     scene.add(group);
 
-    const rack = { group, hit, theta: spec.theta, normal: n, side: spec.side, index: j, shoes: [] };
+    const rack = { group, hit, theta: spec.theta, normal: n, side: spec.side, index: j, number: (j >> 1) + 1, shoes: [] };
     hit.userData.rack = rack;
     hitTargets.push(hit);
 
     let k = 0;
     SHELVES.forEach((y) => {
       SLOT_X.forEach((x) => {
-        const p = products[(j * SHELVES.length * SLOT_X.length + k++) % products.length];
+        // each wall walks the whole catalogue in order; the outer wall starts half-way
+        // round it so the two racks facing each other never show the same pairs
+        const sideIdx = j >> 1;
+        const offset = inner ? 0 : Math.floor(products.length / 2);
+        const p = products[(sideIdx * SHELVES.length * SLOT_X.length + k++ + offset) % products.length];
         let mat = materials.get(p.id);
         if (!mat) {
           mat = new THREE.MeshBasicMaterial({
@@ -338,6 +343,27 @@ function nearestS(theta) {
   return base + Math.round((s - base) / CIRC) * CIRC;
 }
 
+// ------------------------------------------------------------------ phone "wall" view
+// Tall screens face the outer wall head-on (like walking past a gallery wall)
+// instead of looking down the corridor, so each rack fills the screen width.
+const STEP = (Math.PI * 2) / RACKS_PER_SIDE;
+const STEP_S = STEP * R;
+const WALL_CAM_R = R_IN + 0.7;
+const WALL_DIST = R_OUT - 0.03 - RACK_D - WALL_CAM_R; // camera -> rack front
+const wallMode = () => camera.aspect < 0.8;
+function outerIndex(sv) {
+  return Math.round((sv / R - STEP / 2) / STEP);
+}
+function outerS(k) {
+  return (k * STEP + STEP / 2) * R;
+}
+function wallFov() {
+  const hHalf = Math.atan(RACK_W / 0.88 / 2 / WALL_DIST); // rack ~88% of the width
+  const vHalf = Math.min(Math.atan(Math.tan(hHalf) / camera.aspect), THREE.MathUtils.degToRad(41));
+  return { vHalf, fov: THREE.MathUtils.radToDeg(vHalf * 2) };
+}
+let lastAdvance = 0;
+
 // ------------------------------------------------------------------ input
 function walk(delta) {
   sTarget += delta;
@@ -354,7 +380,7 @@ addEventListener(
     let d = e.deltaY + e.deltaX * 0.5;
     if (e.deltaMode === 1) d *= 18;
     d = Math.max(-140, Math.min(140, d));
-    walk(d * 0.0062);
+    walk(d * (wallMode() ? 0.03 : 0.0062)); // phones/narrow: one notch ~ one rack
   },
   { passive: false }
 );
@@ -367,7 +393,7 @@ addEventListener("keydown", (e) => {
 
 let drag = null;
 canvas.addEventListener("pointerdown", (e) => {
-  drag = { x: e.clientX, y: e.clientY, lastY: e.clientY, moved: 0, type: e.pointerType };
+  drag = { x: e.clientX, y: e.clientY, lastX: e.clientX, lastY: e.clientY, moved: 0, type: e.pointerType, v: 0, t: performance.now() };
   setMouse(e);
 });
 addEventListener("pointermove", (e) => {
@@ -375,21 +401,37 @@ addEventListener("pointermove", (e) => {
   lastPointerMove = performance.now();
   setMouse(e);
   if (drag && drag.type !== "mouse") {
+    const dx = drag.lastX - e.clientX;
     const dy = drag.lastY - e.clientY;
+    drag.lastX = e.clientX;
     drag.lastY = e.clientY;
-    drag.moved += Math.abs(dy);
-    if (drag.moved > 6) walk(dy * 0.03);
+    drag.moved += Math.abs(dx) + Math.abs(dy);
+    let d;
+    if (wallMode()) {
+      // the wall follows the finger: px -> metres along the wall -> path arc length
+      const wallWidth = 2 * WALL_DIST * Math.tan(Math.atan(Math.tan(THREE.MathUtils.degToRad(camera.fov / 2)) * camera.aspect));
+      d = (Math.abs(dx) >= Math.abs(dy) ? dx : dy * 0.7) * (wallWidth / innerWidth) * (R / (R_OUT - RACK_D));
+    } else {
+      d = dy * 0.03;
+    }
+    const now = performance.now();
+    drag.v = d / Math.max(now - drag.t, 8);
+    drag.t = now;
+    if (drag.moved > 6) walk(d);
   }
 });
 addEventListener("pointerup", (e) => {
   if (!drag) return;
   const tap = Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 8;
   const type = drag.type;
+  if (!tap && type !== "mouse" && performance.now() - drag.t < 120) {
+    walk(Math.max(-STEP_S * 1.5, Math.min(STEP_S * 1.5, drag.v * 220))); // fling
+  }
   drag = null;
   if (!tap || paused || e.target !== canvas) return;
   setMouse(e);
   const hit = pick();
-  if (type === "mouse") {
+  if (type === "mouse" || wallMode()) {
     if (hit?.shoe) open(hit.shoe);
     return;
   }
@@ -434,6 +476,7 @@ function pick() {
 
 let focusStart = 0;
 function setFocus(rack) {
+  if (rack && wallMode()) return;
   focus = rack;
   focusStart = performance.now();
   if (rack) sTarget = nearestS(rack.theta);
@@ -490,6 +533,28 @@ function focusCamera(rack) {
   return pathPoint(rack.theta, 1.34, focusPos).addScaledVector(rack.normal, -shift);
 }
 
+// ------------------------------------------------------------------ phone caption
+const caption = document.getElementById("caption");
+const capTitle = caption?.querySelector(".caption__title");
+const capSub = caption?.querySelector(".caption__sub");
+let capFor = null;
+function updateCaption(k) {
+  if (!caption || !racks.length) return;
+  const i = ((k % RACKS_PER_SIDE) + RACKS_PER_SIDE) % RACKS_PER_SIDE;
+  if (capFor === i) return;
+  capFor = i;
+  const rack = racks[i * 2 + 1];
+  const ps = rack.shoes.map((m) => m.userData.product);
+  const brands = [...new Set(ps.map((p) => p.brand))];
+  const list = brands.length > 1 ? brands.slice(0, -1).join(", ") + " & " + brands.at(-1) : brands[0];
+  const prices = ps.map((p) => p.price);
+  caption.classList.remove("is-in");
+  void caption.offsetWidth;
+  capTitle.textContent = `Rack ${String(rack.number).padStart(2, "0")} — ${list}`;
+  capSub.textContent = `${ps.length} pairs · ${Shop.money(Math.min(...prices))} – ${Shop.money(Math.max(...prices))}`;
+  caption.classList.add("is-in");
+}
+
 // ------------------------------------------------------------------ main loop
 const camPos = new THREE.Vector3();
 const lookAt = new THREE.Vector3();
@@ -534,10 +599,28 @@ function loop() {
 
   // --- walking
   const idle = now - lastInput > 3200;
-  if (!focus && idle && !reduceMotion && !document.body.classList.contains("cart-open")) {
+  const wall = wallMode();
+  if (wall !== loop.wall) {
+    loop.wall = wall;
+    document.body.classList.toggle("wall-mode", wall);
+    if (wall) setFocus(null);
+    camera.fov = wall ? wallFov().fov : fovFor(camera.aspect);
+    camera.updateProjectionMatrix();
+    firstFrame = true;
+  }
+  const cartOpen = document.body.classList.contains("cart-open");
+  if (wall) {
+    // settle on the nearest rack once the finger lifts / the wheel stops
+    if (!drag && now - lastInput > 240) sTarget = outerS(outerIndex(sTarget));
+    // left alone, step on to the next rack every few seconds
+    if (now - lastInput > 4500 && now - lastAdvance > 4200 && !reduceMotion && !cartOpen) {
+      sTarget = outerS(outerIndex(sTarget) + 1);
+      lastAdvance = now;
+    }
+  } else if (!focus && idle && !reduceMotion && !cartOpen) {
     sTarget += 0.55 * dt; // the room keeps drifting by when you're not steering
   }
-  s = damp(s, sTarget, focus ? 2.6 : 3.4, dt);
+  s = damp(s, sTarget, focus ? 2.6 : wall ? 4.2 : 3.4, dt);
   focusAmt = damp(focusAmt, focus ? 1 : 0, focus ? 2.4 : 3.2, dt);
   const ease = focusAmt * focusAmt * (3 - 2 * focusAmt);
 
@@ -545,7 +628,7 @@ function loop() {
   const speed = Math.abs(sTarget - s);
   const bob = reduceMotion ? 0 : Math.sin(s * 2.1) * Math.min(speed, 1.5) * 0.014;
   pathPoint(theta, EYE + bob, camPos);
-  pathPoint(theta + (camera.aspect < 0.8 ? 5.5 : 7.5) / R, 1.4, lookAt); // look ahead along the curve
+  pathPoint(theta + 7.5 / R, 1.45, lookAt); // look ahead along the curve
 
   // gentle mouse parallax while walking
   mouseSmooth.x = damp(mouseSmooth.x, pointerInside && mouse.x > -2 ? mouse.x : 0, 2, dt);
@@ -553,11 +636,17 @@ function loop() {
   const fwd = tmpB.set(-Math.sin(theta), 0, Math.cos(theta));
   const right = tmpA.set(-fwd.z, 0, fwd.x); // screen-right = toward the inner wall
   lookAt.addScaledVector(right, mouseSmooth.x * 1.4).add({ x: 0, y: mouseSmooth.y * 0.5, z: 0 });
-  if (camera.aspect < 0.8) {
-    // Portrait phones: walk nearer the inner wall and look across at the outer
-    // wall, so a run of racks fills the tall screen instead of floor and ceiling.
-    camPos.addScaledVector(right, 0.9);
-    lookAt.addScaledVector(right, -3.2);
+  if (wall) {
+    // stand by the inner wall and face the outer wall square-on; nudge the view
+    // down a touch so the rack sits above centre and the caption has room below
+    const { vHalf } = wallFov();
+    const c = Math.cos(theta);
+    const sn = Math.sin(theta);
+    camPos.set(WALL_CAM_R * c, 1.34, WALL_CAM_R * sn);
+    const drop = WALL_DIST * Math.tan(vHalf) * 0.16;
+    lookAt.set(R_OUT * c, 1.34 - drop, R_OUT * sn);
+    lookSmooth.copy(lookAt);
+    updateCaption(outerIndex(sTarget));
   }
 
   const fr = focus || lastFocus;
@@ -606,7 +695,7 @@ let lastFocus = null;
 addEventListener("resize", () => {
   const a = innerWidth / innerHeight;
   camera.aspect = a;
-  camera.fov = fovFor(a);
+  camera.fov = a < 0.8 ? wallFov().fov : fovFor(a);
   camera.updateProjectionMatrix();
   renderer.setSize(innerWidth, innerHeight, false);
 });

@@ -5,7 +5,7 @@ shoe racks on both walls; it never ends because the corridor loops.
 
 - **Scroll / swipe**: walk forward or back. When you stop, the room keeps drifting slowly.
 - **Hover a pair** (desktop): you stop at that rack and lean in, framed so the whole rack fits. The pair lifts forward and a label shows its name and price.
-- **On phones**: swipe up/down to walk (the camera angles toward one wall so the racks fill the tall screen). Tap a rack to lean in, then tap a pair to open it. A slim buy bar follows you down the product page.
+- **On phones** (portrait): you face the gallery wall and each rack fills the screen. Swipe to walk rack by rack (it snaps, and steps on by itself when idle), tap a pair to open it. A caption names the rack you're passing, with its brands and price range. A slim buy bar follows you down the product page.
 - **Click a pair**: opens its product page with photos, name, colourway, price/MRP, UK sizes (sold-out sizes crossed out), details, and *Add to bag*.
 - **Bag button** (top right): shows a count badge and opens the bag drawer (change quantity, remove, subtotal, checkout).
 
@@ -71,8 +71,8 @@ python scraper/scrape.py --dry-run   # preview the pick
 python scraper/scrape.py             # rewrite static/data + static/shoes
 ```
 
-To change the brand mix, edit `QUOTA` in `scraper/scrape.py`. The room has 52 racks × 6 pairs = 312 slots,
-and the catalogue repeats around the loop.
+To change the brand mix, edit `QUOTA` in `scraper/scrape.py`. The room has 68 racks × 6 pairs (34 per wall),
+and each wall runs through the whole catalogue.
 The picks are stable for the same store inventory, but stores change stock, so a re-scrape can pick different pairs.
 
 ## Adding payments later
