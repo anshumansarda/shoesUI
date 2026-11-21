@@ -41,8 +41,14 @@ st.markdown(
 )
 
 
+def site_version() -> str:
+    """Changes whenever any inlined file changes, so a redeploy never serves stale HTML."""
+    files = [SITE / "index.html", SITE / "css" / "style.css", SITE / "data" / "products.json", *sorted((SITE / "js").glob("*.js"))]
+    return "|".join(f"{f.name}:{f.stat().st_mtime_ns}:{f.stat().st_size}" for f in files)
+
+
 @st.cache_data(show_spinner=False)
-def build_page() -> str:
+def build_page(version: str) -> str:
     html = (SITE / "index.html").read_text(encoding="utf-8")
 
     # inline stylesheet
@@ -80,4 +86,4 @@ def build_page() -> str:
     return html.replace("</head>", boot + "</head>", 1)
 
 
-components.html(build_page(), height=900, scrolling=False)
+components.html(build_page(site_version()), height=900, scrolling=False)
